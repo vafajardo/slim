@@ -1,7 +1,6 @@
 # Site settings
-title: slim
-baseurl: "/slim"
-url: "http://syaning.com"
+title: Andrei Fajardo 
+url: "http://anerdi.ca"
 
 # Build settings
 kramdown:
