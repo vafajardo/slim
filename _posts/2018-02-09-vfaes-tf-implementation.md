@@ -11,8 +11,8 @@ Some links to VFAE material:
 - [a previous post summarizing the paper]({{ site.baseurl }}{% post_url 2018-02-02-zemel-et-al-2016 %})
 - [a previous post on the mathematics behind VFAEs]({{ site.baseurl }}{% post_url 2018-02-09-vfaes-math %})
 
-In today's post, I briefly go over my tensorflow implementation of a VFAE that I use
-to find a latent representation of the MNIST handwritten digits dataset. I should
+In today's post, I briefly go over my [tensorflow implementation](https://github.com/vafajardo/research/blob/master/autoencoders/vfae.py)
+of a VFAE that I use to find a latent representation of the MNIST handwritten digits dataset. I should
 note that in my example, I don't have any "actual" nuisance/sensitive variables in mind;
 moreover, that I am simply training on this dataset to determine if indeed
 the decoder $$p_\theta(x|z_1,s)$$ is able to produce recognizable images given a randomly
