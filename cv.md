@@ -6,7 +6,8 @@ title: curriculum_vitae
 Toronto, Canada | [linkedin](https://www.linkedin.com/in/vafajardo) | [github](https://github.com/vafajardo)
 
 ### Research Interests
-- Statistics & Applied Probability; Reinforcment Learning; Deep Learning; Representation Learning
+- Statistics & Applied Probability; Representation Learning;
+Generative Modelling; Variational Inference; Deep Learning;
 
 
 ### Skills
@@ -20,6 +21,10 @@ Toronto, Canada | [linkedin](https://www.linkedin.com/in/vafajardo) | [github](h
   - Use big data tools to discover useful insights for clients
   - Research and explore recent machine/deep learning techniques
 
+- **Mentor - Data Science Track [SpringBoard, Dec 2017 -- present]:**
+    - Mentor aspiring Data Scientists
+    - Teach students the fundamendals of statistics, probability, and machine learning
+
 - **Senior Data Scientist [Precima-LoyaltyOne, Jan 2016 -- Sept 2017]:**
   - Developed & implemented pricing models for large retailer clients
   - Built an internal tool for implementing business rules as optimization constraints
@@ -31,6 +36,8 @@ Toronto, Canada | [linkedin](https://www.linkedin.com/in/vafajardo) | [github](h
   over 170 students.
 
 ### Recent Activities
+- Kaggle Competition: [NCAA Men's Division 1 Basketball Probability Predictions (Mar 2018)](http://anerdi.ca/ml/2018/03/15/march-madness-1/)
+- [Built personal Deep Learning Devbox (Dec 2017)](http://anerdi.ca/misc/2017/12/25/my-first-dl-devbox/)
 
 ### Education
 - **PhD, Statistics [University of Waterloo, Jan 2011 - Dec 2015]:**
@@ -82,5 +89,13 @@ Toronto, Canada | [linkedin](https://www.linkedin.com/in/vafajardo) | [github](h
   - V.A. FAJARDO, V.A. FAJARDO, P.J. LEBLANC, & R.E. MACPHERSON (2018). Examining the relationship between trace lithium in drinking water and the rising rates of age-adjusted Alzheimer’s disease mortality in Texas. Journal of Alzheimer's Disease, (Preprint), 1-10.
   - V.A. FAJARDO, P.J. LEBLANC, & V.A. FAJARDO (2017). Trace lithium in Texas tap water is negatively associated with all-cause mortality and premature death. Applied Physiology, Nutrition, and Metabolism, (ja).
 
-
 ### Conference Presentations
+- RBC FutureMakers Event, Toronto Canada (2017). Differential privacy (learnings from
+    an auto-insuranct application).
+- Canadian Operational Research Society Conference, Montreal Canada (2015). On a general mixed priority
+    queue with server discretion.
+- Canadian Operational Research Society Conference, Ottawa Canada (2014). An M/G/1 queue with
+    customer blocking.
+- CanQueue, Waterloo Canada (2013). Accumulating priority queues with server vacations.
+- Queues and Risk Workshop, Eindhoven Netherlands (2013). An M/G/1 queue with
+    customer blocking.
