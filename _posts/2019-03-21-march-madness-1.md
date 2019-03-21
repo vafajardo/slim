@@ -7,2281 +7,2281 @@ categories: ML
 ---
 Team1Name|Team2Name|ProbTeam1BeatsTeam2
 ---|---|---
-Abilene Chr|Arizona St|0.1922
-Abilene Chr|Auburn|0.0944
-Abilene Chr|Baylor|0.1965
-Abilene Chr|Belmont|0.2251
-Abilene Chr|Bradley|0.6485
-Abilene Chr|Buffalo|0.1672
-Abilene Chr|Cincinnati|0.1923
-Abilene Chr|Colgate|0.477
-Abilene Chr|Duke|0.0094
-Abilene Chr|F Dickinson|0.5204
-Abilene Chr|Florida|0.2204
-Abilene Chr|Florida St|0.1142
-Abilene Chr|Gardner Webb|0.6557
-Abilene Chr|Georgia St|0.3771
-Abilene Chr|Gonzaga|0.0042
-Abilene Chr|Houston|0.0744
-Abilene Chr|Iona|0.5404
-Abilene Chr|Iowa|0.1753
-Abilene Chr|Iowa St|0.1286
-Abilene Chr|Kansas|0.1155
-Abilene Chr|Kansas St|0.1433
-Abilene Chr|Kentucky|0.0872
-Abilene Chr|Liberty|0.2294
-Abilene Chr|Louisville|0.1898
-Abilene Chr|LSU|0.0933
-Abilene Chr|Marquette|0.1586
-Abilene Chr|Maryland|0.1543
-Abilene Chr|Michigan|0.0794
-Abilene Chr|Michigan St|0.0555
-Abilene Chr|Minnesota|0.2823
-Abilene Chr|Mississippi|0.1627
-Abilene Chr|Mississippi St|0.1089
-Abilene Chr|Montana|0.4947
-Abilene Chr|Murray St|0.2099
-Abilene Chr|N Dakota St|0.7157
-Abilene Chr|N Kentucky|0.2615
-Abilene Chr|NC Central|0.8773
-Abilene Chr|Nevada|0.1612
-Abilene Chr|New Mexico St|0.1296
-Abilene Chr|North Carolina|0.0449
-Abilene Chr|Northeastern|0.3373
-Abilene Chr|Ohio St|0.1833
-Abilene Chr|Oklahoma|0.1665
-Abilene Chr|Old Dominion|0.3001
-Abilene Chr|Oregon|0.1359
-Abilene Chr|Prairie View|0.6064
-Abilene Chr|Purdue|0.0822
-Abilene Chr|Seton Hall|0.2495
-Abilene Chr|St John's|0.2573
-Abilene Chr|St Louis|0.3132
-Abilene Chr|St Mary's CA|0.1317
-Abilene Chr|Syracuse|0.1989
-Abilene Chr|Temple|0.2378
-Abilene Chr|Tennessee|0.0857
-Abilene Chr|Texas Tech|0.077
-Abilene Chr|UC Irvine|0.2559
-Abilene Chr|UCF|0.1963
-Abilene Chr|Utah St|0.2349
-Abilene Chr|VA Commonwealth|0.1311
-Abilene Chr|Vermont|0.2539
-Abilene Chr|Villanova|0.141
+Abilene Chr|Arizona St|0.0941
+Abilene Chr|Auburn|0.0803
+Abilene Chr|Baylor|0.2172
+Abilene Chr|Belmont|0.2473
+Abilene Chr|Bradley|0.4313
+Abilene Chr|Buffalo|0.157
+Abilene Chr|Cincinnati|0.2451
+Abilene Chr|Colgate|0.472
+Abilene Chr|Duke|0.0137
+Abilene Chr|F Dickinson|0.369
+Abilene Chr|Florida|0.2817
+Abilene Chr|Florida St|0.1426
+Abilene Chr|Gardner Webb|0.6595
+Abilene Chr|Georgia St|0.1831
+Abilene Chr|Gonzaga|0.0092
+Abilene Chr|Houston|0.0701
+Abilene Chr|Iona|0.255
+Abilene Chr|Iowa|0.2546
+Abilene Chr|Iowa St|0.0947
+Abilene Chr|Kansas|0.1546
+Abilene Chr|Kansas St|0.1156
+Abilene Chr|Kentucky|0.0925
+Abilene Chr|Liberty|0.2155
+Abilene Chr|Louisville|0.2199
+Abilene Chr|LSU|0.0745
+Abilene Chr|Marquette|0.1352
+Abilene Chr|Maryland|0.1332
+Abilene Chr|Michigan|0.0759
+Abilene Chr|Michigan St|0.0421
+Abilene Chr|Minnesota|0.2071
+Abilene Chr|Mississippi|0.2065
+Abilene Chr|Mississippi St|0.0723
+Abilene Chr|Montana|0.6143
+Abilene Chr|Murray St|0.2254
+Abilene Chr|N Dakota St|0.5841
+Abilene Chr|N Kentucky|0.3494
+Abilene Chr|NC Central|0.8622
+Abilene Chr|Nevada|0.221
+Abilene Chr|New Mexico St|0.1993
+Abilene Chr|North Carolina|0.0489
+Abilene Chr|Northeastern|0.1678
+Abilene Chr|Ohio St|0.1621
+Abilene Chr|Oklahoma|0.1425
+Abilene Chr|Old Dominion|0.1389
+Abilene Chr|Oregon|0.2011
+Abilene Chr|Prairie View|0.4265
+Abilene Chr|Purdue|0.0899
+Abilene Chr|Seton Hall|0.2009
+Abilene Chr|St John's|0.2412
+Abilene Chr|St Louis|0.5384
+Abilene Chr|St Mary's CA|0.0969
+Abilene Chr|Syracuse|0.2458
+Abilene Chr|Temple|0.2685
+Abilene Chr|Tennessee|0.0795
+Abilene Chr|Texas Tech|0.0976
+Abilene Chr|UC Irvine|0.3813
+Abilene Chr|UCF|0.1853
+Abilene Chr|Utah St|0.2061
+Abilene Chr|VA Commonwealth|0.1695
+Abilene Chr|Vermont|0.1608
+Abilene Chr|Villanova|0.1223
 Abilene Chr|Virginia|0.0002
-Abilene Chr|Virginia Tech|0.1074
-Abilene Chr|Washington|0.152
-Abilene Chr|Wisconsin|0.1598
-Abilene Chr|Wofford|0.1066
-Abilene Chr|Yale|0.2016
-Arizona St|Auburn|0.1949
-Arizona St|Baylor|0.4037
-Arizona St|Belmont|0.4552
-Arizona St|Bradley|0.8342
-Arizona St|Buffalo|0.3589
-Arizona St|Cincinnati|0.3939
-Arizona St|Colgate|0.7854
-Arizona St|Duke|0.0919
-Arizona St|F Dickinson|0.783
-Arizona St|Florida|0.4566
-Arizona St|Florida St|0.2295
-Arizona St|Gardner Webb|0.8475
-Arizona St|Georgia St|0.7212
-Arizona St|Gonzaga|0.0651
-Arizona St|Houston|0.1619
-Arizona St|Iona|0.7898
-Arizona St|Iowa|0.3339
-Arizona St|Iowa St|0.2485
-Arizona St|Kansas|0.232
-Arizona St|Kansas St|0.2772
-Arizona St|Kentucky|0.1997
-Arizona St|Liberty|0.5362
-Arizona St|Louisville|0.3824
-Arizona St|LSU|0.1848
-Arizona St|Marquette|0.3034
-Arizona St|Maryland|0.2987
-Arizona St|Michigan|0.2138
-Arizona St|Michigan St|0.1848
-Arizona St|Minnesota|0.6114
-Arizona St|Mississippi|0.3054
-Arizona St|Mississippi St|0.2119
-Arizona St|Montana|0.7979
-Arizona St|Murray St|0.4494
-Arizona St|N Dakota St|0.8728
-Arizona St|N Kentucky|0.5525
-Arizona St|NC Central|0.9453
-Arizona St|Nevada|0.3142
-Arizona St|New Mexico St|0.2374
-Arizona St|North Carolina|0.1731
-Arizona St|Northeastern|0.7096
-Arizona St|Ohio St|0.386
-Arizona St|Oklahoma|0.3365
-Arizona St|Old Dominion|0.6514
-Arizona St|Oregon|0.2599
-Arizona St|Prairie View|0.8203
-Arizona St|Purdue|0.1883
-Arizona St|Seton Hall|0.5645
-Arizona St|St John's|0.6424
-Arizona St|St Louis|0.6543
-Arizona St|St Mary's CA|0.2569
-Arizona St|Syracuse|0.3784
-Arizona St|Temple|0.5908
-Arizona St|Tennessee|0.2231
-Arizona St|Texas Tech|0.2075
-Arizona St|UC Irvine|0.5588
-Arizona St|UCF|0.4186
-Arizona St|Utah St|0.5432
-Arizona St|VA Commonwealth|0.2494
-Arizona St|Vermont|0.5581
-Arizona St|Villanova|0.2641
-Arizona St|Virginia|0.022
-Arizona St|Virginia Tech|0.2375
-Arizona St|Washington|0.3027
-Arizona St|Wisconsin|0.3441
-Arizona St|Wofford|0.2185
-Arizona St|Yale|0.4316
-Auburn|Baylor|0.8649
-Auburn|Belmont|0.8772
-Auburn|Bradley|0.9695
-Auburn|Buffalo|0.8468
-Auburn|Cincinnati|0.8479
-Auburn|Colgate|0.9597
-Auburn|Duke|0.3573
-Auburn|F Dickinson|0.958
-Auburn|Florida|0.8881
-Auburn|Florida St|0.6352
-Auburn|Gardner Webb|0.9722
-Auburn|Georgia St|0.9448
-Auburn|Gonzaga|0.3067
-Auburn|Houston|0.4966
-Auburn|Iona|0.9591
-Auburn|Iowa|0.8275
-Auburn|Iowa St|0.6962
-Auburn|Kansas|0.6488
-Auburn|Kansas St|0.7505
-Auburn|Kentucky|0.5026
-Auburn|Liberty|0.9062
-Auburn|Louisville|0.8745
-Auburn|LSU|0.5148
-Auburn|Marquette|0.7705
-Auburn|Maryland|0.7548
-Auburn|Michigan|0.6625
-Auburn|Michigan St|0.5366
-Auburn|Minnesota|0.9264
-Auburn|Mississippi|0.7854
-Auburn|Mississippi St|0.6078
-Auburn|Montana|0.9625
-Auburn|Murray St|0.8888
-Auburn|N Dakota St|0.9771
-Auburn|N Kentucky|0.9033
-Auburn|NC Central|0.9907
-Auburn|Nevada|0.8126
-Auburn|New Mexico St|0.6358
-Auburn|North Carolina|0.5255
-Auburn|Northeastern|0.9458
-Auburn|Ohio St|0.8613
-Auburn|Oklahoma|0.8392
-Auburn|Old Dominion|0.9308
-Auburn|Oregon|0.7708
-Auburn|Prairie View|0.9657
-Auburn|Purdue|0.4849
-Auburn|Seton Hall|0.9149
-Auburn|St John's|0.9373
-Auburn|St Louis|0.9296
-Auburn|St Mary's CA|0.7791
-Auburn|Syracuse|0.8405
-Auburn|Temple|0.9262
-Auburn|Tennessee|0.6318
-Auburn|Texas Tech|0.5989
-Auburn|UC Irvine|0.9083
-Auburn|UCF|0.8804
-Auburn|Utah St|0.9116
-Auburn|VA Commonwealth|0.7307
-Auburn|Vermont|0.909
-Auburn|Villanova|0.6463
-Auburn|Virginia|0.305
-Auburn|Virginia Tech|0.6187
-Auburn|Washington|0.8233
-Auburn|Wisconsin|0.8307
-Auburn|Wofford|0.651
-Auburn|Yale|0.8694
-Baylor|Belmont|0.5072
-Baylor|Bradley|0.8645
-Baylor|Buffalo|0.4109
-Baylor|Cincinnati|0.4475
-Baylor|Colgate|0.8241
-Baylor|Duke|0.1127
-Baylor|F Dickinson|0.8212
-Baylor|Florida|0.5175
-Baylor|Florida St|0.2312
-Baylor|Gardner Webb|0.8756
-Baylor|Georgia St|0.7661
-Baylor|Gonzaga|0.083
-Baylor|Houston|0.1655
-Baylor|Iona|0.8267
-Baylor|Iowa|0.3615
-Baylor|Iowa St|0.251
-Baylor|Kansas|0.2379
-Baylor|Kansas St|0.2927
-Baylor|Kentucky|0.206
-Baylor|Liberty|0.59
-Baylor|Louisville|0.4324
-Baylor|LSU|0.1866
-Baylor|Marquette|0.3242
-Baylor|Maryland|0.3135
-Baylor|Michigan|0.2249
-Baylor|Michigan St|0.2026
-Baylor|Minnesota|0.6701
-Baylor|Mississippi|0.3207
-Baylor|Mississippi St|0.2115
-Baylor|Montana|0.8353
-Baylor|Murray St|0.5092
-Baylor|N Dakota St|0.8965
-Baylor|N Kentucky|0.6079
-Baylor|NC Central|0.9561
-Baylor|Nevada|0.3368
-Baylor|New Mexico St|0.2356
-Baylor|North Carolina|0.1916
-Baylor|Northeastern|0.7575
-Baylor|Ohio St|0.4342
-Baylor|Oklahoma|0.3741
-Baylor|Old Dominion|0.7008
-Baylor|Oregon|0.2754
-Baylor|Prairie View|0.8522
-Baylor|Purdue|0.1915
-Baylor|Seton Hall|0.6226
-Baylor|St John's|0.6927
-Baylor|St Louis|0.7045
-Baylor|St Mary's CA|0.2771
-Baylor|Syracuse|0.4147
-Baylor|Temple|0.6451
-Baylor|Tennessee|0.2355
-Baylor|Texas Tech|0.2194
-Baylor|UC Irvine|0.6135
-Baylor|UCF|0.4753
-Baylor|Utah St|0.6032
-Baylor|VA Commonwealth|0.2566
-Baylor|Vermont|0.6135
-Baylor|Villanova|0.2655
-Baylor|Virginia|0.0371
-Baylor|Virginia Tech|0.2427
-Baylor|Washington|0.3345
-Baylor|Wisconsin|0.3833
-Baylor|Wofford|0.2204
-Baylor|Yale|0.4798
-Belmont|Bradley|0.8561
-Belmont|Buffalo|0.4281
-Belmont|Cincinnati|0.4658
-Belmont|Colgate|0.8154
-Belmont|Duke|0.1223
-Belmont|F Dickinson|0.8114
-Belmont|Florida|0.5241
-Belmont|Florida St|0.2691
-Belmont|Gardner Webb|0.8679
-Belmont|Georgia St|0.7596
-Belmont|Gonzaga|0.0938
-Belmont|Houston|0.2009
-Belmont|Iona|0.8167
-Belmont|Iowa|0.3871
-Belmont|Iowa St|0.286
-Belmont|Kansas|0.2733
-Belmont|Kansas St|0.3234
-Belmont|Kentucky|0.2408
-Belmont|Liberty|0.6075
-Belmont|Louisville|0.4456
-Belmont|LSU|0.2228
-Belmont|Marquette|0.3533
-Belmont|Maryland|0.3441
-Belmont|Michigan|0.2583
-Belmont|Michigan St|0.2233
-Belmont|Minnesota|0.6664
-Belmont|Mississippi|0.3503
-Belmont|Mississippi St|0.2471
-Belmont|Montana|0.8251
-Belmont|Murray St|0.5269
-Belmont|N Dakota St|0.8901
-Belmont|N Kentucky|0.6144
-Belmont|NC Central|0.9533
-Belmont|Nevada|0.3646
-Belmont|New Mexico St|0.2736
-Belmont|North Carolina|0.2143
-Belmont|Northeastern|0.7536
-Belmont|Ohio St|0.4561
-Belmont|Oklahoma|0.3965
-Belmont|Old Dominion|0.7046
-Belmont|Oregon|0.3043
-Belmont|Prairie View|0.8435
-Belmont|Purdue|0.2217
-Belmont|Seton Hall|0.6288
-Belmont|St John's|0.7053
-Belmont|St Louis|0.7047
-Belmont|St Mary's CA|0.3053
-Belmont|Syracuse|0.433
-Belmont|Temple|0.6577
-Belmont|Tennessee|0.2658
-Belmont|Texas Tech|0.2479
-Belmont|UC Irvine|0.6208
-Belmont|UCF|0.4906
-Belmont|Utah St|0.6106
-Belmont|VA Commonwealth|0.2895
-Belmont|Vermont|0.6211
-Belmont|Villanova|0.303
-Belmont|Virginia|0.0411
-Belmont|Virginia Tech|0.2752
-Belmont|Washington|0.3613
-Belmont|Wisconsin|0.3998
-Belmont|Wofford|0.256
-Belmont|Yale|0.5031
-Bradley|Buffalo|0.1291
-Bradley|Cincinnati|0.1532
-Bradley|Colgate|0.3684
-Bradley|Duke|0.0047
-Bradley|F Dickinson|0.4158
-Bradley|Florida|0.1766
-Bradley|Florida St|0.0861
-Bradley|Gardner Webb|0.5677
-Bradley|Georgia St|0.29
-Bradley|Gonzaga|0.002
-Bradley|Houston|0.0533
-Bradley|Iona|0.4342
-Bradley|Iowa|0.1381
-Bradley|Iowa St|0.0995
-Bradley|Kansas|0.0884
-Bradley|Kansas St|0.111
-Bradley|Kentucky|0.064
-Bradley|Liberty|0.1838
-Bradley|Louisville|0.1492
-Bradley|LSU|0.0704
-Bradley|Marquette|0.1238
-Bradley|Maryland|0.1191
-Bradley|Michigan|0.0546
-Bradley|Michigan St|0.0372
-Bradley|Minnesota|0.2274
-Bradley|Mississippi|0.1285
-Bradley|Mississippi St|0.0834
-Bradley|Montana|0.3871
-Bradley|Murray St|0.1676
-Bradley|N Dakota St|0.6381
-Bradley|N Kentucky|0.213
-Bradley|NC Central|0.852
-Bradley|Nevada|0.1254
-Bradley|New Mexico St|0.1021
-Bradley|North Carolina|0.0283
-Bradley|Northeastern|0.2625
-Bradley|Ohio St|0.1457
-Bradley|Oklahoma|0.131
-Bradley|Old Dominion|0.2363
-Bradley|Oregon|0.1074
-Bradley|Prairie View|0.5037
-Bradley|Purdue|0.0605
-Bradley|Seton Hall|0.2008
-Bradley|St John's|0.2015
-Bradley|St Louis|0.2486
-Bradley|St Mary's CA|0.1037
-Bradley|Syracuse|0.1586
-Bradley|Temple|0.19
-Bradley|Tennessee|0.0601
-Bradley|Texas Tech|0.0536
-Bradley|UC Irvine|0.2079
-Bradley|UCF|0.1561
-Bradley|Utah St|0.1884
-Bradley|VA Commonwealth|0.1021
-Bradley|Vermont|0.2061
-Bradley|Villanova|0.1098
-Bradley|Virginia|0.0
-Bradley|Virginia Tech|0.0796
-Bradley|Washington|0.1194
-Bradley|Wisconsin|0.1222
-Bradley|Wofford|0.0795
-Bradley|Yale|0.1622
-Buffalo|Cincinnati|0.5853
-Buffalo|Colgate|0.8632
-Buffalo|Duke|0.2148
-Buffalo|F Dickinson|0.8603
-Buffalo|Florida|0.6416
-Buffalo|Florida St|0.3105
-Buffalo|Gardner Webb|0.9059
-Buffalo|Georgia St|0.8164
-Buffalo|Gonzaga|0.1785
-Buffalo|Houston|0.2308
-Buffalo|Iona|0.8645
-Buffalo|Iowa|0.5103
-Buffalo|Iowa St|0.3518
-Buffalo|Kansas|0.3172
-Buffalo|Kansas St|0.3979
-Buffalo|Kentucky|0.2802
-Buffalo|Liberty|0.69
-Buffalo|Louisville|0.5923
-Buffalo|LSU|0.2509
-Buffalo|Marquette|0.4341
-Buffalo|Maryland|0.4195
-Buffalo|Michigan|0.3251
-Buffalo|Michigan St|0.2883
-Buffalo|Minnesota|0.7517
-Buffalo|Mississippi|0.4508
-Buffalo|Mississippi St|0.291
-Buffalo|Montana|0.8728
-Buffalo|Murray St|0.6355
-Buffalo|N Dakota St|0.9218
-Buffalo|N Kentucky|0.6925
-Buffalo|NC Central|0.9675
-Buffalo|Nevada|0.4842
-Buffalo|New Mexico St|0.3221
-Buffalo|North Carolina|0.2887
-Buffalo|Northeastern|0.8129
-Buffalo|Ohio St|0.5758
-Buffalo|Oklahoma|0.5241
-Buffalo|Old Dominion|0.7677
-Buffalo|Oregon|0.4084
-Buffalo|Prairie View|0.8858
-Buffalo|Purdue|0.2619
-Buffalo|Seton Hall|0.7143
-Buffalo|St John's|0.7742
-Buffalo|St Louis|0.7681
-Buffalo|St Mary's CA|0.4121
-Buffalo|Syracuse|0.5459
-Buffalo|Temple|0.7397
-Buffalo|Tennessee|0.3302
-Buffalo|Texas Tech|0.3083
-Buffalo|UC Irvine|0.7026
-Buffalo|UCF|0.6148
-Buffalo|Utah St|0.7049
-Buffalo|VA Commonwealth|0.3742
-Buffalo|Vermont|0.7033
-Buffalo|Villanova|0.3432
-Buffalo|Virginia|0.1526
-Buffalo|Virginia Tech|0.3248
-Buffalo|Washington|0.4888
-Buffalo|Wisconsin|0.5326
-Buffalo|Wofford|0.3011
-Buffalo|Yale|0.5998
-Cincinnati|Colgate|0.8354
-Cincinnati|Duke|0.1701
-Cincinnati|F Dickinson|0.8358
-Cincinnati|Florida|0.5882
-Cincinnati|Florida St|0.2843
-Cincinnati|Gardner Webb|0.891
-Cincinnati|Georgia St|0.7796
-Cincinnati|Gonzaga|0.1402
-Cincinnati|Houston|0.2091
-Cincinnati|Iona|0.8415
-Cincinnati|Iowa|0.4616
-Cincinnati|Iowa St|0.3188
-Cincinnati|Kansas|0.2868
-Cincinnati|Kansas St|0.3477
-Cincinnati|Kentucky|0.2559
-Cincinnati|Liberty|0.6379
-Cincinnati|Louisville|0.5269
-Cincinnati|LSU|0.2307
-Cincinnati|Marquette|0.3777
-Cincinnati|Maryland|0.3697
-Cincinnati|Michigan|0.2873
-Cincinnati|Michigan St|0.2574
-Cincinnati|Minnesota|0.7044
-Cincinnati|Mississippi|0.4128
-Cincinnati|Mississippi St|0.2643
-Cincinnati|Montana|0.847
-Cincinnati|Murray St|0.5771
-Cincinnati|N Dakota St|0.9097
-Cincinnati|N Kentucky|0.6441
-Cincinnati|NC Central|0.9632
-Cincinnati|Nevada|0.4047
-Cincinnati|New Mexico St|0.2968
-Cincinnati|North Carolina|0.2518
-Cincinnati|Northeastern|0.774
-Cincinnati|Ohio St|0.5232
-Cincinnati|Oklahoma|0.4725
-Cincinnati|Old Dominion|0.7252
-Cincinnati|Oregon|0.3729
-Cincinnati|Prairie View|0.8674
-Cincinnati|Purdue|0.2405
-Cincinnati|Seton Hall|0.6646
-Cincinnati|St John's|0.7272
-Cincinnati|St Louis|0.7262
-Cincinnati|St Mary's CA|0.3718
-Cincinnati|Syracuse|0.4983
-Cincinnati|Temple|0.6888
-Cincinnati|Tennessee|0.2939
-Cincinnati|Texas Tech|0.2778
-Cincinnati|UC Irvine|0.6539
-Cincinnati|UCF|0.5573
-Cincinnati|Utah St|0.6514
-Cincinnati|VA Commonwealth|0.3394
-Cincinnati|Vermont|0.6537
-Cincinnati|Villanova|0.3177
-Cincinnati|Virginia|0.0909
-Cincinnati|Virginia Tech|0.2985
-Cincinnati|Washington|0.4408
-Cincinnati|Wisconsin|0.4489
-Cincinnati|Wofford|0.2722
-Cincinnati|Yale|0.5493
-Colgate|Duke|0.0135
-Colgate|F Dickinson|0.5375
-Colgate|Florida|0.2611
-Colgate|Florida St|0.14
-Colgate|Gardner Webb|0.6553
-Colgate|Georgia St|0.4159
-Colgate|Gonzaga|0.0075
-Colgate|Houston|0.0924
-Colgate|Iona|0.5518
-Colgate|Iowa|0.2097
-Colgate|Iowa St|0.1564
-Colgate|Kansas|0.1424
-Colgate|Kansas St|0.1738
-Colgate|Kentucky|0.1075
-Colgate|Liberty|0.2704
-Colgate|Louisville|0.2263
-Colgate|LSU|0.1151
-Colgate|Marquette|0.1909
-Colgate|Maryland|0.1867
-Colgate|Michigan|0.1
-Colgate|Michigan St|0.074
-Colgate|Minnesota|0.3269
-Colgate|Mississippi|0.1954
-Colgate|Mississippi St|0.133
-Colgate|Montana|0.5286
-Colgate|Murray St|0.2491
-Colgate|N Dakota St|0.71
-Colgate|N Kentucky|0.3048
-Colgate|NC Central|0.8671
-Colgate|Nevada|0.194
-Colgate|New Mexico St|0.1568
-Colgate|North Carolina|0.0581
-Colgate|Northeastern|0.3846
-Colgate|Ohio St|0.2192
-Colgate|Oklahoma|0.2002
-Colgate|Old Dominion|0.3437
-Colgate|Oregon|0.164
-Colgate|Prairie View|0.6127
-Colgate|Purdue|0.1027
-Colgate|Seton Hall|0.2933
-Colgate|St John's|0.3023
-Colgate|St Louis|0.3573
-Colgate|St Mary's CA|0.1594
-Colgate|Syracuse|0.2366
-Colgate|Temple|0.2816
-Colgate|Tennessee|0.1051
-Colgate|Texas Tech|0.0974
-Colgate|UC Irvine|0.2997
-Colgate|UCF|0.2341
-Colgate|Utah St|0.2776
-Colgate|VA Commonwealth|0.1589
-Colgate|Vermont|0.2971
-Colgate|Villanova|0.1707
+Abilene Chr|Virginia Tech|0.149
+Abilene Chr|Washington|0.2091
+Abilene Chr|Wisconsin|0.2062
+Abilene Chr|Wofford|0.1419
+Abilene Chr|Yale|0.2716
+Arizona St|Auburn|0.2233
+Arizona St|Baylor|0.7779
+Arizona St|Belmont|0.7615
+Arizona St|Bradley|0.867
+Arizona St|Buffalo|0.391
+Arizona St|Cincinnati|0.7894
+Arizona St|Colgate|0.9399
+Arizona St|Duke|0.1471
+Arizona St|F Dickinson|0.8842
+Arizona St|Florida|0.8868
+Arizona St|Florida St|0.3834
+Arizona St|Gardner Webb|0.9584
+Arizona St|Georgia St|0.6374
+Arizona St|Gonzaga|0.1308
+Arizona St|Houston|0.189
+Arizona St|Iona|0.8297
+Arizona St|Iowa|0.8723
+Arizona St|Iowa St|0.2649
+Arizona St|Kansas|0.3819
+Arizona St|Kansas St|0.2954
+Arizona St|Kentucky|0.2599
+Arizona St|Liberty|0.719
+Arizona St|Louisville|0.7853
+Arizona St|LSU|0.1919
+Arizona St|Marquette|0.385
+Arizona St|Maryland|0.3338
+Arizona St|Michigan|0.2605
+Arizona St|Michigan St|0.1855
+Arizona St|Minnesota|0.5298
+Arizona St|Mississippi|0.8511
+Arizona St|Mississippi St|0.2063
+Arizona St|Montana|0.9641
+Arizona St|Murray St|0.6537
+Arizona St|N Dakota St|0.9493
+Arizona St|N Kentucky|0.9056
+Arizona St|NC Central|0.9843
+Arizona St|Nevada|0.6027
+Arizona St|New Mexico St|0.5726
+Arizona St|North Carolina|0.2134
+Arizona St|Northeastern|0.5377
+Arizona St|Ohio St|0.5138
+Arizona St|Oklahoma|0.3911
+Arizona St|Old Dominion|0.5169
+Arizona St|Oregon|0.8315
+Arizona St|Prairie View|0.8846
+Arizona St|Purdue|0.2619
+Arizona St|Seton Hall|0.6899
+Arizona St|St John's|0.8243
+Arizona St|St Louis|0.9412
+Arizona St|St Mary's CA|0.2775
+Arizona St|Syracuse|0.7636
+Arizona St|Temple|0.8582
+Arizona St|Tennessee|0.2445
+Arizona St|Texas Tech|0.319
+Arizona St|UC Irvine|0.9258
+Arizona St|UCF|0.5432
+Arizona St|Utah St|0.6393
+Arizona St|VA Commonwealth|0.4172
+Arizona St|Vermont|0.5323
+Arizona St|Villanova|0.3109
+Arizona St|Virginia|0.0279
+Arizona St|Virginia Tech|0.381
+Arizona St|Washington|0.8186
+Arizona St|Wisconsin|0.7195
+Arizona St|Wofford|0.4099
+Arizona St|Yale|0.8312
+Auburn|Baylor|0.9787
+Auburn|Belmont|0.9761
+Auburn|Bradley|0.9861
+Auburn|Buffalo|0.8652
+Auburn|Cincinnati|0.9753
+Auburn|Colgate|0.9943
+Auburn|Duke|0.4264
+Auburn|F Dickinson|0.988
+Auburn|Florida|0.991
+Auburn|Florida St|0.8924
+Auburn|Gardner Webb|0.996
+Auburn|Georgia St|0.9519
+Auburn|Gonzaga|0.3558
+Auburn|Houston|0.3696
+Auburn|Iona|0.9808
+Auburn|Iowa|0.9902
+Auburn|Iowa St|0.6573
+Auburn|Kansas|0.8567
+Auburn|Kansas St|0.7627
+Auburn|Kentucky|0.556
+Auburn|Liberty|0.9675
+Auburn|Louisville|0.9861
+Auburn|LSU|0.4137
+Auburn|Marquette|0.8788
+Auburn|Maryland|0.747
+Auburn|Michigan|0.6081
+Auburn|Michigan St|0.3758
+Auburn|Minnesota|0.9322
+Auburn|Mississippi|0.9874
+Auburn|Mississippi St|0.4079
+Auburn|Montana|0.9967
+Auburn|Murray St|0.9626
+Auburn|N Dakota St|0.995
+Auburn|N Kentucky|0.9911
+Auburn|NC Central|0.9985
+Auburn|Nevada|0.9633
+Auburn|New Mexico St|0.9407
+Auburn|North Carolina|0.5108
+Auburn|Northeastern|0.9333
+Auburn|Ohio St|0.9305
+Auburn|Oklahoma|0.8777
+Auburn|Old Dominion|0.9313
+Auburn|Oregon|0.9842
+Auburn|Prairie View|0.9879
+Auburn|Purdue|0.6291
+Auburn|Seton Hall|0.9657
+Auburn|St John's|0.9822
+Auburn|St Louis|0.9944
+Auburn|St Mary's CA|0.8034
+Auburn|Syracuse|0.9779
+Auburn|Temple|0.9866
+Auburn|Tennessee|0.4658
+Auburn|Texas Tech|0.8212
+Auburn|UC Irvine|0.9933
+Auburn|UCF|0.9431
+Auburn|Utah St|0.9577
+Auburn|VA Commonwealth|0.8962
+Auburn|Vermont|0.9342
+Auburn|Villanova|0.6376
+Auburn|Virginia|0.2902
+Auburn|Virginia Tech|0.861
+Auburn|Washington|0.9838
+Auburn|Wisconsin|0.9766
+Auburn|Wofford|0.9003
+Auburn|Yale|0.9825
+Baylor|Belmont|0.5707
+Baylor|Bradley|0.7858
+Baylor|Buffalo|0.2293
+Baylor|Cincinnati|0.6094
+Baylor|Colgate|0.8839
+Baylor|Duke|0.127
+Baylor|F Dickinson|0.7906
+Baylor|Florida|0.7872
+Baylor|Florida St|0.2241
+Baylor|Gardner Webb|0.9279
+Baylor|Georgia St|0.3582
+Baylor|Gonzaga|0.1112
+Baylor|Houston|0.1029
+Baylor|Iona|0.649
+Baylor|Iowa|0.7418
+Baylor|Iowa St|0.1437
+Baylor|Kansas|0.2394
+Baylor|Kansas St|0.1637
+Baylor|Kentucky|0.1643
+Baylor|Liberty|0.4795
+Baylor|Louisville|0.6171
+Baylor|LSU|0.103
+Baylor|Marquette|0.2011
+Baylor|Maryland|0.1973
+Baylor|Michigan|0.1642
+Baylor|Michigan St|0.1146
+Baylor|Minnesota|0.327
+Baylor|Mississippi|0.6668
+Baylor|Mississippi St|0.1081
+Baylor|Montana|0.9328
+Baylor|Murray St|0.4316
+Baylor|N Dakota St|0.9081
+Baylor|N Kentucky|0.8164
+Baylor|NC Central|0.9724
+Baylor|Nevada|0.4256
+Baylor|New Mexico St|0.3302
+Baylor|North Carolina|0.1505
+Baylor|Northeastern|0.284
+Baylor|Ohio St|0.2722
+Baylor|Oklahoma|0.2113
+Baylor|Old Dominion|0.2483
+Baylor|Oregon|0.6236
+Baylor|Prairie View|0.8064
+Baylor|Purdue|0.1505
+Baylor|Seton Hall|0.4323
+Baylor|St John's|0.6401
+Baylor|St Louis|0.8978
+Baylor|St Mary's CA|0.1426
+Baylor|Syracuse|0.5779
+Baylor|Temple|0.7114
+Baylor|Tennessee|0.1583
+Baylor|Texas Tech|0.2164
+Baylor|UC Irvine|0.8576
+Baylor|UCF|0.3044
+Baylor|Utah St|0.3921
+Baylor|VA Commonwealth|0.2446
+Baylor|Vermont|0.2724
+Baylor|Villanova|0.1748
+Baylor|Virginia|0.0351
+Baylor|Virginia Tech|0.2579
+Baylor|Washington|0.6123
+Baylor|Wisconsin|0.5567
+Baylor|Wofford|0.2284
+Baylor|Yale|0.6768
+Belmont|Bradley|0.8204
+Belmont|Buffalo|0.3256
+Belmont|Cincinnati|0.7213
+Belmont|Colgate|0.9155
+Belmont|Duke|0.1349
+Belmont|F Dickinson|0.8407
+Belmont|Florida|0.8484
+Belmont|Florida St|0.3205
+Belmont|Gardner Webb|0.9417
+Belmont|Georgia St|0.5119
+Belmont|Gonzaga|0.1264
+Belmont|Houston|0.16
+Belmont|Iona|0.7585
+Belmont|Iowa|0.8269
+Belmont|Iowa St|0.2129
+Belmont|Kansas|0.3284
+Belmont|Kansas St|0.2411
+Belmont|Kentucky|0.2258
+Belmont|Liberty|0.6209
+Belmont|Louisville|0.7238
+Belmont|LSU|0.1586
+Belmont|Marquette|0.3036
+Belmont|Maryland|0.2804
+Belmont|Michigan|0.2265
+Belmont|Michigan St|0.1577
+Belmont|Minnesota|0.4521
+Belmont|Mississippi|0.7852
+Belmont|Mississippi St|0.164
+Belmont|Montana|0.9497
+Belmont|Murray St|0.559
+Belmont|N Dakota St|0.9287
+Belmont|N Kentucky|0.8693
+Belmont|NC Central|0.9776
+Belmont|Nevada|0.537
+Belmont|New Mexico St|0.4671
+Belmont|North Carolina|0.1922
+Belmont|Northeastern|0.4189
+Belmont|Ohio St|0.4078
+Belmont|Oklahoma|0.3107
+Belmont|Old Dominion|0.3816
+Belmont|Oregon|0.7543
+Belmont|Prairie View|0.8426
+Belmont|Purdue|0.2187
+Belmont|Seton Hall|0.5835
+Belmont|St John's|0.7574
+Belmont|St Louis|0.9185
+Belmont|St Mary's CA|0.2146
+Belmont|Syracuse|0.6946
+Belmont|Temple|0.8058
+Belmont|Tennessee|0.2145
+Belmont|Texas Tech|0.2808
+Belmont|UC Irvine|0.8975
+Belmont|UCF|0.4446
+Belmont|Utah St|0.5375
+Belmont|VA Commonwealth|0.3452
+Belmont|Vermont|0.4059
+Belmont|Villanova|0.2557
+Belmont|Virginia|0.0361
+Belmont|Virginia Tech|0.3379
+Belmont|Washington|0.7405
+Belmont|Wisconsin|0.6627
+Belmont|Wofford|0.327
+Belmont|Yale|0.769
+Bradley|Buffalo|0.1346
+Bradley|Cincinnati|0.2422
+Bradley|Colgate|0.6656
+Bradley|Duke|0.0086
+Bradley|F Dickinson|0.5225
+Bradley|Florida|0.3353
+Bradley|Florida St|0.1215
+Bradley|Gardner Webb|0.8274
+Bradley|Georgia St|0.167
+Bradley|Gonzaga|0.0053
+Bradley|Houston|0.0586
+Bradley|Iona|0.3323
+Bradley|Iowa|0.2796
+Bradley|Iowa St|0.0784
+Bradley|Kansas|0.1339
+Bradley|Kansas St|0.0992
+Bradley|Kentucky|0.0786
+Bradley|Liberty|0.2059
+Bradley|Louisville|0.1983
+Bradley|LSU|0.064
+Bradley|Marquette|0.1149
+Bradley|Maryland|0.1114
+Bradley|Michigan|0.0594
+Bradley|Michigan St|0.0315
+Bradley|Minnesota|0.1795
+Bradley|Mississippi|0.2346
+Bradley|Mississippi St|0.0601
+Bradley|Montana|0.7878
+Bradley|Murray St|0.2002
+Bradley|N Dakota St|0.7668
+Bradley|N Kentucky|0.4996
+Bradley|NC Central|0.9455
+Bradley|Nevada|0.1961
+Bradley|New Mexico St|0.1743
+Bradley|North Carolina|0.0372
+Bradley|Northeastern|0.1454
+Bradley|Ohio St|0.1389
+Bradley|Oklahoma|0.1209
+Bradley|Old Dominion|0.1213
+Bradley|Oregon|0.2327
+Bradley|Prairie View|0.5968
+Bradley|Purdue|0.0726
+Bradley|Seton Hall|0.1814
+Bradley|St John's|0.2767
+Bradley|St Louis|0.7335
+Bradley|St Mary's CA|0.0812
+Bradley|Syracuse|0.235
+Bradley|Temple|0.3246
+Bradley|Tennessee|0.066
+Bradley|Texas Tech|0.0773
+Bradley|UC Irvine|0.5538
+Bradley|UCF|0.1613
+Bradley|Utah St|0.183
+Bradley|VA Commonwealth|0.144
+Bradley|Vermont|0.1387
+Bradley|Villanova|0.1032
+Bradley|Virginia|0.0001
+Bradley|Virginia Tech|0.1237
+Bradley|Washington|0.2214
+Bradley|Wisconsin|0.183
+Bradley|Wofford|0.1182
+Bradley|Yale|0.3302
+Buffalo|Cincinnati|0.8493
+Buffalo|Colgate|0.9554
+Buffalo|Duke|0.2562
+Buffalo|F Dickinson|0.9114
+Buffalo|Florida|0.925
+Buffalo|Florida St|0.4815
+Buffalo|Gardner Webb|0.9698
+Buffalo|Georgia St|0.6856
+Buffalo|Gonzaga|0.2483
+Buffalo|Houston|0.1894
+Buffalo|Iona|0.8581
+Buffalo|Iowa|0.918
+Buffalo|Iowa St|0.2744
+Buffalo|Kansas|0.4471
+Buffalo|Kansas St|0.3059
+Buffalo|Kentucky|0.2822
+Buffalo|Liberty|0.7731
+Buffalo|Louisville|0.8771
+Buffalo|LSU|0.1881
+Buffalo|Marquette|0.444
+Buffalo|Maryland|0.3473
+Buffalo|Michigan|0.2981
+Buffalo|Michigan St|0.2241
+Buffalo|Minnesota|0.6228
+Buffalo|Mississippi|0.8926
+Buffalo|Mississippi St|0.2002
+Buffalo|Montana|0.9741
+Buffalo|Murray St|0.742
+Buffalo|N Dakota St|0.9617
+Buffalo|N Kentucky|0.9302
+Buffalo|NC Central|0.9884
+Buffalo|Nevada|0.7646
+Buffalo|New Mexico St|0.6473
+Buffalo|North Carolina|0.2693
+Buffalo|Northeastern|0.6004
+Buffalo|Ohio St|0.5963
+Buffalo|Oklahoma|0.4553
+Buffalo|Old Dominion|0.5764
+Buffalo|Oregon|0.8686
+Buffalo|Prairie View|0.9124
+Buffalo|Purdue|0.2766
+Buffalo|Seton Hall|0.7542
+Buffalo|St John's|0.8628
+Buffalo|St Louis|0.9572
+Buffalo|St Mary's CA|0.3157
+Buffalo|Syracuse|0.8308
+Buffalo|Temple|0.8944
+Buffalo|Tennessee|0.2679
+Buffalo|Texas Tech|0.3873
+Buffalo|UC Irvine|0.9471
+Buffalo|UCF|0.6403
+Buffalo|Utah St|0.7198
+Buffalo|VA Commonwealth|0.4977
+Buffalo|Vermont|0.5975
+Buffalo|Villanova|0.3087
+Buffalo|Virginia|0.1477
+Buffalo|Virginia Tech|0.4515
+Buffalo|Washington|0.8684
+Buffalo|Wisconsin|0.8455
+Buffalo|Wofford|0.5065
+Buffalo|Yale|0.8686
+Cincinnati|Colgate|0.845
+Cincinnati|Duke|0.144
+Cincinnati|F Dickinson|0.7375
+Cincinnati|Florida|0.7421
+Cincinnati|Florida St|0.2291
+Cincinnati|Gardner Webb|0.905
+Cincinnati|Georgia St|0.3739
+Cincinnati|Gonzaga|0.1445
+Cincinnati|Houston|0.1039
+Cincinnati|Iona|0.5927
+Cincinnati|Iowa|0.7114
+Cincinnati|Iowa St|0.1528
+Cincinnati|Kansas|0.2428
+Cincinnati|Kansas St|0.1708
+Cincinnati|Kentucky|0.1662
+Cincinnati|Liberty|0.4649
+Cincinnati|Louisville|0.604
+Cincinnati|LSU|0.1041
+Cincinnati|Marquette|0.2072
+Cincinnati|Maryland|0.2078
+Cincinnati|Michigan|0.1745
+Cincinnati|Michigan St|0.1228
+Cincinnati|Minnesota|0.3581
+Cincinnati|Mississippi|0.6298
+Cincinnati|Mississippi St|0.1094
+Cincinnati|Montana|0.9083
+Cincinnati|Murray St|0.4376
+Cincinnati|N Dakota St|0.874
+Cincinnati|N Kentucky|0.7681
+Cincinnati|NC Central|0.9658
+Cincinnati|Nevada|0.404
+Cincinnati|New Mexico St|0.3584
+Cincinnati|North Carolina|0.1578
+Cincinnati|Northeastern|0.3157
+Cincinnati|Ohio St|0.3095
+Cincinnati|Oklahoma|0.2417
+Cincinnati|Old Dominion|0.2795
+Cincinnati|Oregon|0.5823
+Cincinnati|Prairie View|0.7591
+Cincinnati|Purdue|0.1598
+Cincinnati|Seton Hall|0.431
+Cincinnati|St John's|0.5962
+Cincinnati|St Louis|0.865
+Cincinnati|St Mary's CA|0.1626
+Cincinnati|Syracuse|0.5477
+Cincinnati|Temple|0.6654
+Cincinnati|Tennessee|0.1555
+Cincinnati|Texas Tech|0.2346
+Cincinnati|UC Irvine|0.8158
+Cincinnati|UCF|0.34
+Cincinnati|Utah St|0.4139
+Cincinnati|VA Commonwealth|0.2723
+Cincinnati|Vermont|0.306
+Cincinnati|Villanova|0.1856
+Cincinnati|Virginia|0.0579
+Cincinnati|Virginia Tech|0.2736
+Cincinnati|Washington|0.5766
+Cincinnati|Wisconsin|0.5239
+Cincinnati|Wofford|0.2355
+Cincinnati|Yale|0.6217
+Colgate|Duke|0.0194
+Colgate|F Dickinson|0.4314
+Colgate|Florida|0.3594
+Colgate|Florida St|0.1914
+Colgate|Gardner Webb|0.6639
+Colgate|Georgia St|0.2515
+Colgate|Gonzaga|0.0156
+Colgate|Houston|0.0979
+Colgate|Iona|0.3334
+Colgate|Iowa|0.3323
+Colgate|Iowa St|0.1354
+Colgate|Kansas|0.2047
+Colgate|Kansas St|0.1614
+Colgate|Kentucky|0.1241
+Colgate|Liberty|0.2879
+Colgate|Louisville|0.2857
+Colgate|LSU|0.1049
+Colgate|Marquette|0.1884
+Colgate|Maryland|0.1836
+Colgate|Michigan|0.1072
+Colgate|Michigan St|0.0609
+Colgate|Minnesota|0.2771
+Colgate|Mississippi|0.2798
+Colgate|Mississippi St|0.1044
+Colgate|Montana|0.6642
+Colgate|Murray St|0.2945
+Colgate|N Dakota St|0.6119
+Colgate|N Kentucky|0.4313
+Colgate|NC Central|0.8519
+Colgate|Nevada|0.2806
+Colgate|New Mexico St|0.2689
+Colgate|North Carolina|0.0667
+Colgate|Northeastern|0.2317
+Colgate|Ohio St|0.2247
+Colgate|Oklahoma|0.1989
+Colgate|Old Dominion|0.1951
+Colgate|Oregon|0.2724
+Colgate|Prairie View|0.4616
+Colgate|Purdue|0.1244
+Colgate|Seton Hall|0.2711
+Colgate|St John's|0.3203
+Colgate|St Louis|0.5701
+Colgate|St Mary's CA|0.1386
+Colgate|Syracuse|0.3194
+Colgate|Temple|0.346
+Colgate|Tennessee|0.1061
+Colgate|Texas Tech|0.1341
+Colgate|UC Irvine|0.46
+Colgate|UCF|0.2506
+Colgate|Utah St|0.2758
+Colgate|VA Commonwealth|0.2305
+Colgate|Vermont|0.2227
+Colgate|Villanova|0.1712
 Colgate|Virginia|0.0004
-Colgate|Virginia Tech|0.1328
-Colgate|Washington|0.183
-Colgate|Wisconsin|0.1937
-Colgate|Wofford|0.1304
-Colgate|Yale|0.2392
-Duke|F Dickinson|0.9547
-Duke|Florida|0.8942
-Duke|Florida St|0.7179
-Duke|Gardner Webb|0.9698
-Duke|Georgia St|0.942
-Duke|Gonzaga|0.4635
-Duke|Houston|0.5831
-Duke|Iona|0.9558
-Duke|Iowa|0.8475
-Duke|Iowa St|0.7307
-Duke|Kansas|0.7208
-Duke|Kansas St|0.805
-Duke|Kentucky|0.6084
-Duke|Liberty|0.9074
-Duke|Louisville|0.8902
-Duke|LSU|0.5988
-Duke|Marquette|0.8143
-Duke|Maryland|0.8078
-Duke|Michigan|0.7723
-Duke|Michigan St|0.6775
-Duke|Minnesota|0.9268
-Duke|Mississippi|0.806
-Duke|Mississippi St|0.6463
-Duke|Montana|0.96
-Duke|Murray St|0.894
-Duke|N Dakota St|0.9749
-Duke|N Kentucky|0.902
-Duke|NC Central|0.9898
-Duke|Nevada|0.859
-Duke|New Mexico St|0.6572
-Duke|North Carolina|0.7056
-Duke|Northeastern|0.9435
-Duke|Ohio St|0.8735
-Duke|Oklahoma|0.8573
-Duke|Old Dominion|0.9286
-Duke|Oregon|0.7954
-Duke|Prairie View|0.9629
-Duke|Purdue|0.5776
-Duke|Seton Hall|0.9174
-Duke|St John's|0.9385
-Duke|St Louis|0.9267
-Duke|St Mary's CA|0.8049
-Duke|Syracuse|0.8532
-Duke|Temple|0.9282
-Duke|Tennessee|0.7653
-Duke|Texas Tech|0.725
-Duke|UC Irvine|0.9076
-Duke|UCF|0.8904
-Duke|Utah St|0.9134
-Duke|VA Commonwealth|0.7625
-Duke|Vermont|0.9086
-Duke|Villanova|0.7068
-Duke|Virginia|0.585
-Duke|Virginia Tech|0.7097
-Duke|Washington|0.8434
-Duke|Wisconsin|0.8749
-Duke|Wofford|0.7145
-Duke|Yale|0.8754
-F Dickinson|Florida|0.2445
-F Dickinson|Florida St|0.112
-F Dickinson|Gardner Webb|0.6538
-F Dickinson|Georgia St|0.4028
-F Dickinson|Gonzaga|0.0008
-F Dickinson|Houston|0.0605
-F Dickinson|Iona|0.5543
-F Dickinson|Iowa|0.1949
-F Dickinson|Iowa St|0.1412
-F Dickinson|Kansas|0.1137
-F Dickinson|Kansas St|0.1496
-F Dickinson|Kentucky|0.0636
-F Dickinson|Liberty|0.2612
-F Dickinson|Louisville|0.1996
-F Dickinson|LSU|0.0886
-F Dickinson|Marquette|0.1737
-F Dickinson|Maryland|0.16
-F Dickinson|Michigan|0.0547
-F Dickinson|Michigan St|0.0344
-F Dickinson|Minnesota|0.3057
-F Dickinson|Mississippi|0.1845
-F Dickinson|Mississippi St|0.1188
-F Dickinson|Montana|0.5182
-F Dickinson|Murray St|0.2347
-F Dickinson|N Dakota St|0.7133
-F Dickinson|N Kentucky|0.3008
-F Dickinson|NC Central|0.8714
-F Dickinson|Nevada|0.1657
-F Dickinson|New Mexico St|0.1504
-F Dickinson|North Carolina|0.0194
-F Dickinson|Northeastern|0.3738
-F Dickinson|Ohio St|0.2089
-F Dickinson|Oklahoma|0.186
-F Dickinson|Old Dominion|0.3378
-F Dickinson|Oregon|0.1579
-F Dickinson|Prairie View|0.6162
-F Dickinson|Purdue|0.0744
-F Dickinson|Seton Hall|0.2825
-F Dickinson|St John's|0.2935
-F Dickinson|St Louis|0.3523
-F Dickinson|St Mary's CA|0.152
-F Dickinson|Syracuse|0.2226
-F Dickinson|Temple|0.27
-F Dickinson|Tennessee|0.0531
-F Dickinson|Texas Tech|0.0562
-F Dickinson|UC Irvine|0.2898
-F Dickinson|UCF|0.2185
-F Dickinson|Utah St|0.2613
-F Dickinson|VA Commonwealth|0.1464
-F Dickinson|Vermont|0.2894
-F Dickinson|Villanova|0.1548
+Colgate|Virginia Tech|0.1989
+Colgate|Washington|0.2792
+Colgate|Wisconsin|0.2659
+Colgate|Wofford|0.195
+Colgate|Yale|0.3486
+Duke|F Dickinson|0.9799
+Duke|Florida|0.9859
+Duke|Florida St|0.8846
+Duke|Gardner Webb|0.9932
+Duke|Georgia St|0.9259
+Duke|Gonzaga|0.508
+Duke|Houston|0.2829
+Duke|Iona|0.9686
+Duke|Iowa|0.9853
+Duke|Iowa St|0.5304
+Duke|Kansas|0.8427
+Duke|Kansas St|0.7115
+Duke|Kentucky|0.552
+Duke|Liberty|0.9492
+Duke|Louisville|0.9803
+Duke|LSU|0.3142
+Duke|Marquette|0.8493
+Duke|Maryland|0.7082
+Duke|Michigan|0.6134
+Duke|Michigan St|0.3347
+Duke|Minnesota|0.8996
+Duke|Mississippi|0.9811
+Duke|Mississippi St|0.2997
+Duke|Montana|0.9945
+Duke|Murray St|0.9435
+Duke|N Dakota St|0.9915
+Duke|N Kentucky|0.9853
+Duke|NC Central|0.9974
+Duke|Nevada|0.962
+Duke|New Mexico St|0.9101
+Duke|North Carolina|0.6069
+Duke|Northeastern|0.8981
+Duke|Ohio St|0.8996
+Duke|Oklahoma|0.8294
+Duke|Old Dominion|0.8948
+Duke|Oregon|0.9759
+Duke|Prairie View|0.9794
+Duke|Purdue|0.6067
+Duke|Seton Hall|0.9483
+Duke|St John's|0.9719
+Duke|St Louis|0.9906
+Duke|St Mary's CA|0.7084
+Duke|Syracuse|0.9662
+Duke|Temple|0.979
+Duke|Tennessee|0.457
+Duke|Texas Tech|0.8508
+Duke|UC Irvine|0.9891
+Duke|UCF|0.9185
+Duke|Utah St|0.9358
+Duke|VA Commonwealth|0.8541
+Duke|Vermont|0.9007
+Duke|Villanova|0.569
+Duke|Virginia|0.4255
+Duke|Virginia Tech|0.8638
+Duke|Washington|0.9758
+Duke|Wisconsin|0.9754
+Duke|Wofford|0.8859
+Duke|Yale|0.9717
+F Dickinson|Florida|0.3886
+F Dickinson|Florida St|0.1484
+F Dickinson|Gardner Webb|0.8071
+F Dickinson|Georgia St|0.2384
+F Dickinson|Gonzaga|0.0018
+F Dickinson|Houston|0.0672
+F Dickinson|Iona|0.3907
+F Dickinson|Iowa|0.3349
+F Dickinson|Iowa St|0.1154
+F Dickinson|Kansas|0.1603
+F Dickinson|Kansas St|0.1358
+F Dickinson|Kentucky|0.0751
+F Dickinson|Liberty|0.2758
+F Dickinson|Louisville|0.251
+F Dickinson|LSU|0.0839
+F Dickinson|Marquette|0.1626
+F Dickinson|Maryland|0.1499
+F Dickinson|Michigan|0.0587
+F Dickinson|Michigan St|0.0271
+F Dickinson|Minnesota|0.2482
+F Dickinson|Mississippi|0.2939
+F Dickinson|Mississippi St|0.0892
+F Dickinson|Montana|0.7985
+F Dickinson|Murray St|0.2678
+F Dickinson|N Dakota St|0.7699
+F Dickinson|N Kentucky|0.5396
+F Dickinson|NC Central|0.9285
+F Dickinson|Nevada|0.2348
+F Dickinson|New Mexico St|0.2483
+F Dickinson|North Carolina|0.0242
+F Dickinson|Northeastern|0.2139
+F Dickinson|Ohio St|0.2014
+F Dickinson|Oklahoma|0.1747
+F Dickinson|Old Dominion|0.1824
+F Dickinson|Oregon|0.2975
+F Dickinson|Prairie View|0.5923
+F Dickinson|Purdue|0.0852
+F Dickinson|Seton Hall|0.2542
+F Dickinson|St John's|0.3453
+F Dickinson|St Louis|0.7262
+F Dickinson|St Mary's CA|0.124
+F Dickinson|Syracuse|0.3048
+F Dickinson|Temple|0.3804
+F Dickinson|Tennessee|0.0547
+F Dickinson|Texas Tech|0.076
+F Dickinson|UC Irvine|0.5689
+F Dickinson|UCF|0.2246
+F Dickinson|Utah St|0.2523
+F Dickinson|VA Commonwealth|0.2029
+F Dickinson|Vermont|0.2044
+F Dickinson|Villanova|0.1477
 F Dickinson|Virginia|0.0
-F Dickinson|Virginia Tech|0.0991
-F Dickinson|Washington|0.1718
-F Dickinson|Wisconsin|0.1534
-F Dickinson|Wofford|0.1081
-F Dickinson|Yale|0.234
-Florida|Florida St|0.2696
-Florida|Gardner Webb|0.8985
-Florida|Georgia St|0.8118
-Florida|Gonzaga|0.096
-Florida|Houston|0.1945
-Florida|Iona|0.8574
-Florida|Iowa|0.4489
-Florida|Iowa St|0.297
-Florida|Kansas|0.2815
-Florida|Kansas St|0.3596
-Florida|Kentucky|0.2385
-Florida|Liberty|0.6791
-Florida|Louisville|0.5344
-Florida|LSU|0.2183
-Florida|Marquette|0.4007
-Florida|Maryland|0.3806
-Florida|Michigan|0.2654
-Florida|Michigan St|0.2395
-Florida|Minnesota|0.7397
-Florida|Mississippi|0.3937
-Florida|Mississippi St|0.2464
-Florida|Montana|0.866
-Florida|Murray St|0.6108
-Florida|N Dakota St|0.9157
-Florida|N Kentucky|0.6856
-Florida|NC Central|0.9646
-Florida|Nevada|0.4289
-Florida|New Mexico St|0.2753
-Florida|North Carolina|0.2225
-Florida|Northeastern|0.8091
-Florida|Ohio St|0.5324
-Florida|Oklahoma|0.4673
-Florida|Old Dominion|0.7639
-Florida|Oregon|0.3449
-Florida|Prairie View|0.8787
-Florida|Purdue|0.2229
-Florida|Seton Hall|0.7038
-Florida|St John's|0.7671
-Florida|St Louis|0.7638
-Florida|St Mary's CA|0.3507
-Florida|Syracuse|0.501
-Florida|Temple|0.7283
-Florida|Tennessee|0.2735
-Florida|Texas Tech|0.2557
-Florida|UC Irvine|0.6927
-Florida|UCF|0.5773
-Florida|Utah St|0.6898
-Florida|VA Commonwealth|0.3126
-Florida|Vermont|0.6937
-Florida|Villanova|0.3096
-Florida|Virginia|0.0469
-Florida|Virginia Tech|0.2804
-Florida|Washington|0.4232
-Florida|Wisconsin|0.4768
-Florida|Wofford|0.2627
-Florida|Yale|0.5757
-Florida St|Gardner Webb|0.9518
-Florida St|Georgia St|0.9078
-Florida St|Gonzaga|0.2674
-Florida St|Houston|0.366
-Florida St|Iona|0.9302
-Florida St|Iowa|0.7332
-Florida St|Iowa St|0.5591
-Florida St|Kansas|0.5184
-Florida St|Kansas St|0.6485
-Florida St|Kentucky|0.4035
-Florida St|Liberty|0.8493
-Florida St|Louisville|0.799
-Florida St|LSU|0.3908
-Florida St|Marquette|0.6747
-Florida St|Maryland|0.6564
-Florida St|Michigan|0.5463
-Florida St|Michigan St|0.4256
-Florida St|Minnesota|0.8797
-Florida St|Mississippi|0.6737
-Florida St|Mississippi St|0.4633
-Florida St|Montana|0.936
-Florida St|Murray St|0.8216
-Florida St|N Dakota St|0.96
-Florida St|N Kentucky|0.8437
-Florida St|NC Central|0.9836
-Florida St|Nevada|0.7268
-Florida St|New Mexico St|0.4961
-Florida St|North Carolina|0.4237
-Florida St|Northeastern|0.9091
-Florida St|Ohio St|0.7808
-Florida St|Oklahoma|0.7481
-Florida St|Old Dominion|0.8861
-Florida St|Oregon|0.6472
-Florida St|Prairie View|0.9412
-Florida St|Purdue|0.3779
-Florida St|Seton Hall|0.8621
-Florida St|St John's|0.8968
-Florida St|St Louis|0.8839
-Florida St|St Mary's CA|0.658
-Florida St|Syracuse|0.7513
-Florida St|Temple|0.8793
-Florida St|Tennessee|0.5179
-Florida St|Texas Tech|0.4783
-Florida St|UC Irvine|0.8513
-Florida St|UCF|0.8086
-Florida St|Utah St|0.8571
-Florida St|VA Commonwealth|0.5994
-Florida St|Vermont|0.8523
-Florida St|Villanova|0.5298
-Florida St|Virginia|0.2724
-Florida St|Virginia Tech|0.4997
-Florida St|Washington|0.7254
-Florida St|Wisconsin|0.7562
-Florida St|Wofford|0.5118
-Florida St|Yale|0.7934
-Gardner Webb|Georgia St|0.2971
-Gardner Webb|Gonzaga|0.0024
-Gardner Webb|Houston|0.0636
-Gardner Webb|Iona|0.4024
-Gardner Webb|Iowa|0.1567
-Gardner Webb|Iowa St|0.1131
-Gardner Webb|Kansas|0.103
-Gardner Webb|Kansas St|0.1279
-Gardner Webb|Kentucky|0.0738
-Gardner Webb|Liberty|0.203
-Gardner Webb|Louisville|0.1686
-Gardner Webb|LSU|0.0834
-Gardner Webb|Marquette|0.1411
-Gardner Webb|Maryland|0.1366
-Gardner Webb|Michigan|0.065
-Gardner Webb|Michigan St|0.0431
-Gardner Webb|Minnesota|0.2505
-Gardner Webb|Mississippi|0.1447
-Gardner Webb|Mississippi St|0.0958
-Gardner Webb|Montana|0.3612
-Gardner Webb|Murray St|0.1873
-Gardner Webb|N Dakota St|0.566
-Gardner Webb|N Kentucky|0.2338
-Gardner Webb|NC Central|0.7966
-Gardner Webb|Nevada|0.1424
-Gardner Webb|New Mexico St|0.1154
-Gardner Webb|North Carolina|0.0332
-Gardner Webb|Northeastern|0.2723
-Gardner Webb|Ohio St|0.1637
-Gardner Webb|Oklahoma|0.1482
-Gardner Webb|Old Dominion|0.2521
-Gardner Webb|Oregon|0.1206
-Gardner Webb|Prairie View|0.4528
-Gardner Webb|Purdue|0.07
-Gardner Webb|Seton Hall|0.2224
-Gardner Webb|St John's|0.2167
-Gardner Webb|St Louis|0.2648
-Gardner Webb|St Mary's CA|0.1167
-Gardner Webb|Syracuse|0.1775
-Gardner Webb|Temple|0.2078
-Gardner Webb|Tennessee|0.07
-Gardner Webb|Texas Tech|0.0621
-Gardner Webb|UC Irvine|0.228
-Gardner Webb|UCF|0.1755
-Gardner Webb|Utah St|0.2091
-Gardner Webb|VA Commonwealth|0.1157
-Gardner Webb|Vermont|0.2261
-Gardner Webb|Villanova|0.1249
+F Dickinson|Virginia Tech|0.1411
+F Dickinson|Washington|0.2812
+F Dickinson|Wisconsin|0.2141
+F Dickinson|Wofford|0.1539
+F Dickinson|Yale|0.3881
+Florida|Florida St|0.2119
+Florida|Gardner Webb|0.9171
+Florida|Georgia St|0.3159
+Florida|Gonzaga|0.1048
+Florida|Houston|0.0984
+Florida|Iona|0.5985
+Florida|Iowa|0.7126
+Florida|Iowa St|0.1345
+Florida|Kansas|0.2326
+Florida|Kansas St|0.1553
+Florida|Kentucky|0.1616
+Florida|Liberty|0.4301
+Florida|Louisville|0.5899
+Florida|LSU|0.099
+Florida|Marquette|0.1874
+Florida|Maryland|0.1868
+Florida|Michigan|0.159
+Florida|Michigan St|0.112
+Florida|Minnesota|0.3025
+Florida|Mississippi|0.624
+Florida|Mississippi St|0.1013
+Florida|Montana|0.9222
+Florida|Murray St|0.3933
+Florida|N Dakota St|0.8935
+Florida|N Kentucky|0.7886
+Florida|NC Central|0.9681
+Florida|Nevada|0.4124
+Florida|New Mexico St|0.3013
+Florida|North Carolina|0.1524
+Florida|Northeastern|0.2576
+Florida|Ohio St|0.2461
+Florida|Oklahoma|0.1979
+Florida|Old Dominion|0.2187
+Florida|Oregon|0.5751
+Florida|Prairie View|0.7813
+Florida|Purdue|0.1428
+Florida|Seton Hall|0.3881
+Florida|St John's|0.5925
+Florida|St Louis|0.8822
+Florida|St Mary's CA|0.1324
+Florida|Syracuse|0.5384
+Florida|Temple|0.672
+Florida|Tennessee|0.1574
+Florida|Texas Tech|0.2114
+Florida|UC Irvine|0.8352
+Florida|UCF|0.2785
+Florida|Utah St|0.3598
+Florida|VA Commonwealth|0.2291
+Florida|Vermont|0.246
+Florida|Villanova|0.1639
+Florida|Virginia|0.0386
+Florida|Virginia Tech|0.2462
+Florida|Washington|0.5665
+Florida|Wisconsin|0.5374
+Florida|Wofford|0.2151
+Florida|Yale|0.6337
+Florida St|Gardner Webb|0.977
+Florida St|Georgia St|0.7366
+Florida St|Gonzaga|0.2623
+Florida St|Houston|0.1725
+Florida St|Iona|0.888
+Florida St|Iowa|0.9407
+Florida St|Iowa St|0.2615
+Florida St|Kansas|0.4923
+Florida St|Kansas St|0.3087
+Florida St|Kentucky|0.2656
+Florida St|Liberty|0.8181
+Florida St|Louisville|0.9144
+Florida St|LSU|0.1719
+Florida St|Marquette|0.4851
+Florida St|Maryland|0.3515
+Florida St|Michigan|0.2878
+Florida St|Michigan St|0.2104
+Florida St|Minnesota|0.6787
+Florida St|Mississippi|0.9193
+Florida St|Mississippi St|0.1837
+Florida St|Montana|0.9806
+Florida St|Murray St|0.7958
+Florida St|N Dakota St|0.9709
+Florida St|N Kentucky|0.9475
+Florida St|NC Central|0.9911
+Florida St|Nevada|0.8279
+Florida St|New Mexico St|0.6999
+Florida St|North Carolina|0.2634
+Florida St|Northeastern|0.653
+Florida St|Ohio St|0.6466
+Florida St|Oklahoma|0.4891
+Florida St|Old Dominion|0.6223
+Florida St|Oregon|0.8987
+Florida St|Prairie View|0.9321
+Florida St|Purdue|0.2617
+Florida St|Seton Hall|0.8034
+Florida St|St John's|0.8949
+Florida St|St Louis|0.9678
+Florida St|St Mary's CA|0.3211
+Florida St|Syracuse|0.8732
+Florida St|Temple|0.9206
+Florida St|Tennessee|0.2507
+Florida St|Texas Tech|0.4323
+Florida St|UC Irvine|0.9607
+Florida St|UCF|0.7001
+Florida St|Utah St|0.7708
+Florida St|VA Commonwealth|0.5503
+Florida St|Vermont|0.6526
+Florida St|Villanova|0.2928
+Florida St|Virginia|0.1844
+Florida St|Virginia Tech|0.5168
+Florida St|Washington|0.8994
+Florida St|Wisconsin|0.8888
+Florida St|Wofford|0.5695
+Florida St|Yale|0.8989
+Gardner Webb|Georgia St|0.1428
+Gardner Webb|Gonzaga|0.0046
+Gardner Webb|Houston|0.0554
+Gardner Webb|Iona|0.1882
+Gardner Webb|Iowa|0.1982
+Gardner Webb|Iowa St|0.0711
+Gardner Webb|Kansas|0.1247
+Gardner Webb|Kansas St|0.0914
+Gardner Webb|Kentucky|0.0729
+Gardner Webb|Liberty|0.1685
+Gardner Webb|Louisville|0.1725
+Gardner Webb|LSU|0.0602
+Gardner Webb|Marquette|0.1049
+Gardner Webb|Maryland|0.1026
+Gardner Webb|Michigan|0.0553
+Gardner Webb|Michigan St|0.0281
+Gardner Webb|Minnesota|0.1631
+Gardner Webb|Mississippi|0.1537
+Gardner Webb|Mississippi St|0.0547
+Gardner Webb|Montana|0.3432
+Gardner Webb|Murray St|0.1786
+Gardner Webb|N Dakota St|0.3373
+Gardner Webb|N Kentucky|0.2386
+Gardner Webb|NC Central|0.682
+Gardner Webb|Nevada|0.1798
+Gardner Webb|New Mexico St|0.1575
+Gardner Webb|North Carolina|0.0336
+Gardner Webb|Northeastern|0.1303
+Gardner Webb|Ohio St|0.1247
+Gardner Webb|Oklahoma|0.1099
+Gardner Webb|Old Dominion|0.1075
+Gardner Webb|Oregon|0.15
+Gardner Webb|Prairie View|0.3188
+Gardner Webb|Purdue|0.0667
+Gardner Webb|Seton Hall|0.157
+Gardner Webb|St John's|0.1837
+Gardner Webb|St Louis|0.3425
+Gardner Webb|St Mary's CA|0.0734
+Gardner Webb|Syracuse|0.1955
+Gardner Webb|Temple|0.2064
+Gardner Webb|Tennessee|0.0609
+Gardner Webb|Texas Tech|0.0697
+Gardner Webb|UC Irvine|0.2506
+Gardner Webb|UCF|0.1463
+Gardner Webb|Utah St|0.1621
+Gardner Webb|VA Commonwealth|0.1316
+Gardner Webb|Vermont|0.1244
+Gardner Webb|Villanova|0.0943
 Gardner Webb|Virginia|0.0001
-Gardner Webb|Virginia Tech|0.0911
-Gardner Webb|Washington|0.1355
-Gardner Webb|Wisconsin|0.139
-Gardner Webb|Wofford|0.0915
-Gardner Webb|Yale|0.1801
-Georgia St|Gonzaga|0.0139
-Georgia St|Houston|0.1024
-Georgia St|Iona|0.5906
-Georgia St|Iowa|0.2193
-Georgia St|Iowa St|0.1646
-Georgia St|Kansas|0.1497
-Georgia St|Kansas St|0.1824
-Georgia St|Kentucky|0.1245
-Georgia St|Liberty|0.2848
-Georgia St|Louisville|0.2386
-Georgia St|LSU|0.1214
-Georgia St|Marquette|0.1997
-Georgia St|Maryland|0.1971
-Georgia St|Michigan|0.1205
-Georgia St|Michigan St|0.0886
-Georgia St|Minnesota|0.346
-Georgia St|Mississippi|0.2038
-Georgia St|Mississippi St|0.1402
-Georgia St|Montana|0.5724
-Georgia St|Murray St|0.2605
-Georgia St|N Dakota St|0.7425
-Georgia St|N Kentucky|0.3176
-Georgia St|NC Central|0.8833
-Georgia St|Nevada|0.2059
-Georgia St|New Mexico St|0.1631
-Georgia St|North Carolina|0.0822
-Georgia St|Northeastern|0.4168
-Georgia St|Ohio St|0.229
-Georgia St|Oklahoma|0.2093
-Georgia St|Old Dominion|0.3707
-Georgia St|Oregon|0.1708
-Georgia St|Prairie View|0.651
-Georgia St|Purdue|0.1135
-Georgia St|Seton Hall|0.3073
-Georgia St|St John's|0.3271
-Georgia St|St Louis|0.3836
-Georgia St|St Mary's CA|0.166
-Georgia St|Syracuse|0.2468
-Georgia St|Temple|0.2983
-Georgia St|Tennessee|0.1314
-Georgia St|Texas Tech|0.1142
-Georgia St|UC Irvine|0.3153
-Georgia St|UCF|0.2443
-Georgia St|Utah St|0.2933
-Georgia St|VA Commonwealth|0.1669
-Georgia St|Vermont|0.3116
-Georgia St|Villanova|0.179
-Georgia St|Virginia|0.0015
-Georgia St|Virginia Tech|0.1469
-Georgia St|Washington|0.1911
-Georgia St|Wisconsin|0.2094
-Georgia St|Wofford|0.1421
-Georgia St|Yale|0.2491
-Gonzaga|Houston|0.7191
-Gonzaga|Iona|0.9703
-Gonzaga|Iowa|0.8963
-Gonzaga|Iowa St|0.815
-Gonzaga|Kansas|0.8145
-Gonzaga|Kansas St|0.8719
-Gonzaga|Kentucky|0.7302
-Gonzaga|Liberty|0.9368
-Gonzaga|Louisville|0.9255
-Gonzaga|LSU|0.7254
-Gonzaga|Marquette|0.8774
-Gonzaga|Maryland|0.8725
-Gonzaga|Michigan|0.8514
-Gonzaga|Michigan St|0.7845
-Gonzaga|Minnesota|0.9503
-Gonzaga|Mississippi|0.8675
-Gonzaga|Mississippi St|0.7543
-Gonzaga|Montana|0.9731
-Gonzaga|Murray St|0.9276
-Gonzaga|N Dakota St|0.9832
-Gonzaga|N Kentucky|0.9331
-Gonzaga|NC Central|0.9932
-Gonzaga|Nevada|0.9083
-Gonzaga|New Mexico St|0.7567
-Gonzaga|North Carolina|0.8084
-Gonzaga|Northeastern|0.9618
-Gonzaga|Ohio St|0.9144
-Gonzaga|Oklahoma|0.9037
-Gonzaga|Old Dominion|0.9516
-Gonzaga|Oregon|0.8623
-Gonzaga|Prairie View|0.9751
-Gonzaga|Purdue|0.7043
-Gonzaga|Seton Hall|0.9438
-Gonzaga|St John's|0.9584
-Gonzaga|St Louis|0.9503
-Gonzaga|St Mary's CA|0.8707
-Gonzaga|Syracuse|0.8991
-Gonzaga|Temple|0.9513
-Gonzaga|Tennessee|0.8468
-Gonzaga|Texas Tech|0.8196
-Gonzaga|UC Irvine|0.9369
-Gonzaga|UCF|0.9256
-Gonzaga|Utah St|0.941
-Gonzaga|VA Commonwealth|0.8391
-Gonzaga|Vermont|0.9377
-Gonzaga|Villanova|0.8005
-Gonzaga|Virginia|0.7089
-Gonzaga|Virginia Tech|0.8046
-Gonzaga|Washington|0.8951
-Gonzaga|Wisconsin|0.9185
-Gonzaga|Wofford|0.8101
-Gonzaga|Yale|0.9152
-Houston|Iona|0.9383
-Houston|Iowa|0.7764
-Houston|Iowa St|0.6245
-Houston|Kansas|0.5958
-Houston|Kansas St|0.7073
-Houston|Kentucky|0.4706
-Houston|Liberty|0.8694
-Houston|Louisville|0.8302
-Houston|LSU|0.4737
-Houston|Marquette|0.7276
-Houston|Maryland|0.7119
-Houston|Michigan|0.6244
-Houston|Michigan St|0.4944
-Houston|Minnesota|0.8945
-Houston|Mississippi|0.7246
-Houston|Mississippi St|0.5356
-Houston|Montana|0.9434
-Houston|Murray St|0.8465
-Houston|N Dakota St|0.9648
-Houston|N Kentucky|0.8634
-Houston|NC Central|0.9856
-Houston|Nevada|0.7733
-Houston|New Mexico St|0.5641
-Houston|North Carolina|0.4897
-Houston|Northeastern|0.92
-Houston|Ohio St|0.8166
-Houston|Oklahoma|0.7904
-Houston|Old Dominion|0.9002
-Houston|Oregon|0.7105
-Houston|Prairie View|0.9481
-Houston|Purdue|0.4503
-Houston|Seton Hall|0.8815
-Houston|St John's|0.9116
-Houston|St Louis|0.8979
-Houston|St Mary's CA|0.7203
-Houston|Syracuse|0.7882
-Houston|Temple|0.8966
-Houston|Tennessee|0.5896
-Houston|Texas Tech|0.5524
-Houston|UC Irvine|0.8704
-Houston|UCF|0.8384
-Houston|Utah St|0.876
-Houston|VA Commonwealth|0.6639
-Houston|Vermont|0.8714
-Houston|Villanova|0.5946
-Houston|Virginia|0.3423
-Houston|Virginia Tech|0.5689
-Houston|Washington|0.7732
-Houston|Wisconsin|0.7977
-Houston|Wofford|0.5943
-Houston|Yale|0.8243
-Iona|Iowa|0.1865
-Iona|Iowa St|0.1347
-Iona|Kansas|0.1089
-Iona|Kansas St|0.1434
-Iona|Kentucky|0.0611
-Iona|Liberty|0.248
-Iona|Louisville|0.1914
-Iona|LSU|0.0849
-Iona|Marquette|0.1662
-Iona|Maryland|0.1533
-Iona|Michigan|0.0518
-Iona|Michigan St|0.0332
-Iona|Minnesota|0.29
-Iona|Mississippi|0.1757
-Iona|Mississippi St|0.1132
-Iona|Montana|0.4609
-Iona|Murray St|0.2244
-Iona|N Dakota St|0.667
-Iona|N Kentucky|0.287
-Iona|NC Central|0.8472
-Iona|Nevada|0.1586
-Iona|New Mexico St|0.143
-Iona|North Carolina|0.0184
-Iona|Northeastern|0.3395
-Iona|Ohio St|0.1989
-Iona|Oklahoma|0.1773
-Iona|Old Dominion|0.3133
-Iona|Oregon|0.1501
-Iona|Prairie View|0.5633
-Iona|Purdue|0.0709
-Iona|Seton Hall|0.2679
-Iona|St John's|0.2704
-Iona|St Louis|0.3269
-Iona|St Mary's CA|0.1446
-Iona|Syracuse|0.2128
-Iona|Temple|0.253
-Iona|Tennessee|0.051
-Iona|Texas Tech|0.053
-Iona|UC Irvine|0.276
-Iona|UCF|0.2091
-Iona|Utah St|0.2484
-Iona|VA Commonwealth|0.1394
-Iona|Vermont|0.2758
-Iona|Villanova|0.1483
+Gardner Webb|Virginia Tech|0.1124
+Gardner Webb|Washington|0.1643
+Gardner Webb|Wisconsin|0.1589
+Gardner Webb|Wofford|0.1083
+Gardner Webb|Yale|0.2092
+Georgia St|Gonzaga|0.0333
+Georgia St|Houston|0.1352
+Georgia St|Iona|0.5076
+Georgia St|Iowa|0.492
+Georgia St|Iowa St|0.1908
+Georgia St|Kansas|0.2647
+Georgia St|Kansas St|0.2153
+Georgia St|Kentucky|0.1733
+Georgia St|Liberty|0.3857
+Georgia St|Louisville|0.3703
+Georgia St|LSU|0.1397
+Georgia St|Marquette|0.2522
+Georgia St|Maryland|0.2455
+Georgia St|Michigan|0.1587
+Georgia St|Michigan St|0.0956
+Georgia St|Minnesota|0.3445
+Georgia St|Mississippi|0.447
+Georgia St|Mississippi St|0.147
+Georgia St|Montana|0.8487
+Georgia St|Murray St|0.3604
+Georgia St|N Dakota St|0.8135
+Georgia St|N Kentucky|0.6485
+Georgia St|NC Central|0.9376
+Georgia St|Nevada|0.3433
+Georgia St|New Mexico St|0.3394
+Georgia St|North Carolina|0.1093
+Georgia St|Northeastern|0.307
+Georgia St|Ohio St|0.2995
+Georgia St|Oklahoma|0.2672
+Georgia St|Old Dominion|0.2686
+Georgia St|Oregon|0.4419
+Georgia St|Prairie View|0.6454
+Georgia St|Purdue|0.1762
+Georgia St|Seton Hall|0.3533
+Georgia St|St John's|0.4732
+Georgia St|St Louis|0.7771
+Georgia St|St Mary's CA|0.1945
+Georgia St|Syracuse|0.4122
+Georgia St|Temple|0.5168
+Georgia St|Tennessee|0.1542
+Georgia St|Texas Tech|0.195
+Georgia St|UC Irvine|0.7019
+Georgia St|UCF|0.3208
+Georgia St|Utah St|0.3489
+Georgia St|VA Commonwealth|0.3002
+Georgia St|Vermont|0.298
+Georgia St|Villanova|0.233
+Georgia St|Virginia|0.0018
+Georgia St|Virginia Tech|0.2676
+Georgia St|Washington|0.4194
+Georgia St|Wisconsin|0.3451
+Georgia St|Wofford|0.2634
+Georgia St|Yale|0.5068
+Gonzaga|Houston|0.3429
+Gonzaga|Iona|0.9707
+Gonzaga|Iowa|0.9863
+Gonzaga|Iowa St|0.584
+Gonzaga|Kansas|0.8616
+Gonzaga|Kansas St|0.7589
+Gonzaga|Kentucky|0.6195
+Gonzaga|Liberty|0.9527
+Gonzaga|Louisville|0.9818
+Gonzaga|LSU|0.3821
+Gonzaga|Marquette|0.8713
+Gonzaga|Maryland|0.7451
+Gonzaga|Michigan|0.6652
+Gonzaga|Michigan St|0.3833
+Gonzaga|Minnesota|0.9064
+Gonzaga|Mississippi|0.9825
+Gonzaga|Mississippi St|0.3363
+Gonzaga|Montana|0.9948
+Gonzaga|Murray St|0.9475
+Gonzaga|N Dakota St|0.992
+Gonzaga|N Kentucky|0.9862
+Gonzaga|NC Central|0.9976
+Gonzaga|Nevada|0.9665
+Gonzaga|New Mexico St|0.9169
+Gonzaga|North Carolina|0.6782
+Gonzaga|Northeastern|0.9073
+Gonzaga|Ohio St|0.9077
+Gonzaga|Oklahoma|0.8475
+Gonzaga|Old Dominion|0.907
+Gonzaga|Oregon|0.9777
+Gonzaga|Prairie View|0.9808
+Gonzaga|Purdue|0.6696
+Gonzaga|Seton Hall|0.952
+Gonzaga|St John's|0.9738
+Gonzaga|St Louis|0.9912
+Gonzaga|St Mary's CA|0.7485
+Gonzaga|Syracuse|0.9684
+Gonzaga|Temple|0.9803
+Gonzaga|Tennessee|0.5292
+Gonzaga|Texas Tech|0.8713
+Gonzaga|UC Irvine|0.9898
+Gonzaga|UCF|0.9247
+Gonzaga|Utah St|0.9404
+Gonzaga|VA Commonwealth|0.866
+Gonzaga|Vermont|0.9105
+Gonzaga|Villanova|0.6185
+Gonzaga|Virginia|0.4883
+Gonzaga|Virginia Tech|0.8797
+Gonzaga|Washington|0.9775
+Gonzaga|Wisconsin|0.9783
+Gonzaga|Wofford|0.9017
+Gonzaga|Yale|0.9735
+Houston|Iona|0.9636
+Houston|Iowa|0.9814
+Houston|Iowa St|0.5222
+Houston|Kansas|0.7976
+Houston|Kansas St|0.675
+Houston|Kentucky|0.4828
+Houston|Liberty|0.9401
+Houston|Louisville|0.9735
+Houston|LSU|0.3375
+Houston|Marquette|0.8203
+Houston|Maryland|0.6552
+Houston|Michigan|0.5358
+Houston|Michigan St|0.3552
+Houston|Minnesota|0.8802
+Houston|Mississippi|0.9769
+Houston|Mississippi St|0.3404
+Houston|Montana|0.9935
+Houston|Murray St|0.9307
+Houston|N Dakota St|0.9901
+Houston|N Kentucky|0.9825
+Houston|NC Central|0.997
+Houston|Nevada|0.9433
+Houston|New Mexico St|0.8946
+Houston|North Carolina|0.4534
+Houston|Northeastern|0.8823
+Houston|Ohio St|0.8811
+Houston|Oklahoma|0.8005
+Houston|Old Dominion|0.883
+Houston|Oregon|0.9709
+Houston|Prairie View|0.9761
+Houston|Purdue|0.5256
+Houston|Seton Hall|0.938
+Houston|St John's|0.9666
+Houston|St Louis|0.9889
+Houston|St Mary's CA|0.6949
+Houston|Syracuse|0.9582
+Houston|Temple|0.9746
+Houston|Tennessee|0.4157
+Houston|Texas Tech|0.7484
+Houston|UC Irvine|0.9869
+Houston|UCF|0.9003
+Houston|Utah St|0.9231
+Houston|VA Commonwealth|0.823
+Houston|Vermont|0.8858
+Houston|Villanova|0.5375
+Houston|Virginia|0.3112
+Houston|Virginia Tech|0.7969
+Houston|Washington|0.9703
+Houston|Wisconsin|0.9642
+Houston|Wofford|0.8523
+Houston|Yale|0.9664
+Iona|Iowa|0.3394
+Iona|Iowa St|0.1474
+Iona|Kansas|0.184
+Iona|Kansas St|0.1687
+Iona|Kentucky|0.0895
+Iona|Liberty|0.317
+Iona|Louisville|0.2812
+Iona|LSU|0.1042
+Iona|Marquette|0.2006
+Iona|Maryland|0.1862
+Iona|Michigan|0.0707
+Iona|Michigan St|0.0352
+Iona|Minnesota|0.2945
+Iona|Mississippi|0.3068
+Iona|Mississippi St|0.1155
+Iona|Montana|0.7312
+Iona|Murray St|0.3127
+Iona|N Dakota St|0.6997
+Iona|N Kentucky|0.4883
+Iona|NC Central|0.8948
+Iona|Nevada|0.2693
+Iona|New Mexico St|0.2969
+Iona|North Carolina|0.0288
+Iona|Northeastern|0.2657
+Iona|Ohio St|0.2482
+Iona|Oklahoma|0.217
+Iona|Old Dominion|0.2281
+Iona|Oregon|0.3141
+Iona|Prairie View|0.5202
+Iona|Purdue|0.1074
+Iona|Seton Hall|0.2974
+Iona|St John's|0.3583
+Iona|St Louis|0.6394
+Iona|St Mary's CA|0.1599
+Iona|Syracuse|0.333
+Iona|Temple|0.375
+Iona|Tennessee|0.0655
+Iona|Texas Tech|0.0921
+Iona|UC Irvine|0.5061
+Iona|UCF|0.2683
+Iona|Utah St|0.2963
+Iona|VA Commonwealth|0.2484
+Iona|Vermont|0.2552
+Iona|Villanova|0.1849
 Iona|Virginia|0.0
-Iona|Virginia Tech|0.0943
-Iona|Washington|0.1636
-Iona|Wisconsin|0.1461
-Iona|Wofford|0.1028
-Iona|Yale|0.2221
-Iowa|Iowa St|0.3211
-Iowa|Kansas|0.3058
-Iowa|Kansas St|0.3922
-Iowa|Kentucky|0.2598
-Iowa|Liberty|0.6993
-Iowa|Louisville|0.5674
-Iowa|LSU|0.2376
-Iowa|Marquette|0.4295
-Iowa|Maryland|0.4117
-Iowa|Michigan|0.3029
-Iowa|Michigan St|0.2546
-Iowa|Minnesota|0.7536
-Iowa|Mississippi|0.4245
-Iowa|Mississippi St|0.2693
-Iowa|Montana|0.868
-Iowa|Murray St|0.6368
-Iowa|N Dakota St|0.9165
-Iowa|N Kentucky|0.6998
-Iowa|NC Central|0.9649
-Iowa|Nevada|0.464
-Iowa|New Mexico St|0.2975
-Iowa|North Carolina|0.25
-Iowa|Northeastern|0.815
-Iowa|Ohio St|0.5639
-Iowa|Oklahoma|0.5011
-Iowa|Old Dominion|0.7741
-Iowa|Oregon|0.37
-Iowa|Prairie View|0.88
-Iowa|Purdue|0.2409
-Iowa|Seton Hall|0.7209
-Iowa|St John's|0.7826
-Iowa|St Louis|0.772
-Iowa|St Mary's CA|0.3747
-Iowa|Syracuse|0.5303
-Iowa|Temple|0.7479
-Iowa|Tennessee|0.3071
-Iowa|Texas Tech|0.2802
-Iowa|UC Irvine|0.7101
-Iowa|UCF|0.6056
-Iowa|Utah St|0.7099
-Iowa|VA Commonwealth|0.3392
-Iowa|Vermont|0.7101
-Iowa|Villanova|0.3341
-Iowa|Virginia|0.0824
-Iowa|Virginia Tech|0.305
-Iowa|Washington|0.4618
-Iowa|Wisconsin|0.5126
-Iowa|Wofford|0.2892
-Iowa|Yale|0.6
-Iowa St|Kansas|0.4923
-Iowa St|Kansas St|0.6158
-Iowa St|Kentucky|0.3797
-Iowa St|Liberty|0.8249
-Iowa St|Louisville|0.7523
-Iowa St|LSU|0.3811
-Iowa St|Marquette|0.6517
-Iowa St|Maryland|0.6229
-Iowa St|Michigan|0.4792
-Iowa St|Michigan St|0.3906
-Iowa St|Minnesota|0.851
-Iowa St|Mississippi|0.6387
-Iowa St|Mississippi St|0.4284
-Iowa St|Montana|0.9218
-Iowa St|Murray St|0.7898
-Iowa St|N Dakota St|0.9514
-Iowa St|N Kentucky|0.8167
-Iowa St|NC Central|0.98
-Iowa St|Nevada|0.6844
-Iowa St|New Mexico St|0.4702
-Iowa St|North Carolina|0.365
-Iowa St|Northeastern|0.8899
-Iowa St|Ohio St|0.7535
-Iowa St|Oklahoma|0.7151
-Iowa St|Old Dominion|0.865
-Iowa St|Oregon|0.6205
-Iowa St|Prairie View|0.929
-Iowa St|Purdue|0.3638
-Iowa St|Seton Hall|0.8361
-Iowa St|St John's|0.8782
-Iowa St|St Louis|0.8617
-Iowa St|St Mary's CA|0.6302
-Iowa St|Syracuse|0.715
-Iowa St|Temple|0.858
-Iowa St|Tennessee|0.4427
-Iowa St|Texas Tech|0.4255
-Iowa St|UC Irvine|0.8249
-Iowa St|UCF|0.7777
-Iowa St|Utah St|0.8294
-Iowa St|VA Commonwealth|0.5615
-Iowa St|Vermont|0.8259
-Iowa St|Villanova|0.5127
-Iowa St|Virginia|0.1493
-Iowa St|Virginia Tech|0.4588
-Iowa St|Washington|0.6937
-Iowa St|Wisconsin|0.7159
-Iowa St|Wofford|0.49
-Iowa St|Yale|0.7697
-Kansas|Kansas St|0.6116
-Kansas|Kentucky|0.3762
-Kansas|Liberty|0.8367
-Kansas|Louisville|0.7746
-Kansas|LSU|0.3614
-Kansas|Marquette|0.6424
-Kansas|Maryland|0.6216
-Kansas|Michigan|0.5015
-Kansas|Michigan St|0.3955
-Kansas|Minnesota|0.8704
-Kansas|Mississippi|0.6487
-Kansas|Mississippi St|0.4401
-Kansas|Montana|0.9338
-Kansas|Murray St|0.8036
-Kansas|N Dakota St|0.9592
-Kansas|N Kentucky|0.8329
-Kansas|NC Central|0.9833
-Kansas|Nevada|0.6912
-Kansas|New Mexico St|0.4757
-Kansas|North Carolina|0.391
-Kansas|Northeastern|0.904
-Kansas|Ohio St|0.7603
-Kansas|Oklahoma|0.7236
-Kansas|Old Dominion|0.879
-Kansas|Oregon|0.6201
-Kansas|Prairie View|0.9398
-Kansas|Purdue|0.3554
-Kansas|Seton Hall|0.8497
-Kansas|St John's|0.8875
-Kansas|St Louis|0.8777
-Kansas|St Mary's CA|0.6298
-Kansas|Syracuse|0.73
-Kansas|Temple|0.8677
-Kansas|Tennessee|0.4682
-Kansas|Texas Tech|0.4357
-Kansas|UC Irvine|0.8406
-Kansas|UCF|0.7885
-Kansas|Utah St|0.845
-Kansas|VA Commonwealth|0.5705
-Kansas|Vermont|0.8415
-Kansas|Villanova|0.4974
-Kansas|Virginia|0.2534
-Kansas|Virginia Tech|0.4593
-Kansas|Washington|0.6974
-Kansas|Wisconsin|0.7267
-Kansas|Wofford|0.4717
-Kansas|Yale|0.7752
-Kansas St|Kentucky|0.3017
-Kansas St|Liberty|0.7651
-Kansas St|Louisville|0.6788
-Kansas St|LSU|0.2779
-Kansas St|Marquette|0.5223
-Kansas St|Maryland|0.5054
-Kansas St|Michigan|0.3805
-Kansas St|Michigan St|0.3166
-Kansas St|Minnesota|0.8139
-Kansas St|Mississippi|0.5325
-Kansas St|Mississippi St|0.3359
-Kansas St|Montana|0.9052
-Kansas St|Murray St|0.7193
-Kansas St|N Dakota St|0.9415
-Kansas St|N Kentucky|0.7643
-Kansas St|NC Central|0.9757
-Kansas St|Nevada|0.5803
-Kansas St|New Mexico St|0.3705
-Kansas St|North Carolina|0.312
-Kansas St|Northeastern|0.8621
-Kansas St|Ohio St|0.6629
-Kansas St|Oklahoma|0.6149
-Kansas St|Old Dominion|0.8268
-Kansas St|Oregon|0.4902
-Kansas St|Prairie View|0.9141
-Kansas St|Purdue|0.2834
-Kansas St|Seton Hall|0.783
-Kansas St|St John's|0.8343
-Kansas St|St Louis|0.8261
-Kansas St|St Mary's CA|0.4976
-Kansas St|Syracuse|0.6298
-Kansas St|Temple|0.8065
-Kansas St|Tennessee|0.369
-Kansas St|Texas Tech|0.3432
-Kansas St|UC Irvine|0.7737
-Kansas St|UCF|0.6983
-Kansas St|Utah St|0.7773
-Kansas St|VA Commonwealth|0.4458
-Kansas St|Vermont|0.7747
-Kansas St|Villanova|0.3941
-Kansas St|Virginia|0.1713
-Kansas St|Virginia Tech|0.3638
-Kansas St|Washington|0.579
-Kansas St|Wisconsin|0.6264
-Kansas St|Wofford|0.3567
-Kansas St|Yale|0.6834
-Kentucky|Liberty|0.8826
-Kentucky|Louisville|0.8533
-Kentucky|LSU|0.4973
-Kentucky|Marquette|0.7625
-Kentucky|Maryland|0.7511
-Kentucky|Michigan|0.6856
-Kentucky|Michigan St|0.5541
-Kentucky|Minnesota|0.9059
-Kentucky|Mississippi|0.7522
-Kentucky|Mississippi St|0.5588
-Kentucky|Montana|0.9489
-Kentucky|Murray St|0.8638
-Kentucky|N Dakota St|0.9681
-Kentucky|N Kentucky|0.8763
-Kentucky|NC Central|0.9869
-Kentucky|Nevada|0.8105
-Kentucky|New Mexico St|0.5814
-Kentucky|North Carolina|0.564
-Kentucky|Northeastern|0.9279
-Kentucky|Ohio St|0.8372
-Kentucky|Oklahoma|0.8149
-Kentucky|Old Dominion|0.9096
-Kentucky|Oregon|0.7372
-Kentucky|Prairie View|0.9529
-Kentucky|Purdue|0.4767
-Kentucky|Seton Hall|0.8943
-Kentucky|St John's|0.9213
-Kentucky|St Louis|0.9073
-Kentucky|St Mary's CA|0.7473
-Kentucky|Syracuse|0.8117
-Kentucky|Temple|0.9079
-Kentucky|Tennessee|0.6632
-Kentucky|Texas Tech|0.6159
-Kentucky|UC Irvine|0.883
-Kentucky|UCF|0.8576
-Kentucky|Utah St|0.8892
-Kentucky|VA Commonwealth|0.6958
-Kentucky|Vermont|0.884
-Kentucky|Villanova|0.6347
-Kentucky|Virginia|0.3896
-Kentucky|Virginia Tech|0.6199
-Kentucky|Washington|0.7976
-Kentucky|Wisconsin|0.8327
-Kentucky|Wofford|0.6351
-Kentucky|Yale|0.8418
-Liberty|Louisville|0.3107
-Liberty|LSU|0.1688
-Liberty|Marquette|0.2596
-Liberty|Maryland|0.2589
-Liberty|Michigan|0.183
-Liberty|Michigan St|0.1512
-Liberty|Minnesota|0.4752
-Liberty|Mississippi|0.262
-Liberty|Mississippi St|0.1873
-Liberty|Montana|0.7179
-Liberty|Murray St|0.3395
-Liberty|N Dakota St|0.8244
-Liberty|N Kentucky|0.4308
-Liberty|NC Central|0.9228
-Liberty|Nevada|0.2693
-Liberty|New Mexico St|0.2104
-Liberty|North Carolina|0.1415
-Liberty|Northeastern|0.5922
-Liberty|Ohio St|0.2988
-Liberty|Oklahoma|0.2735
-Liberty|Old Dominion|0.5289
-Liberty|Oregon|0.2199
-Liberty|Prairie View|0.7574
-Liberty|Purdue|0.1624
-Liberty|Seton Hall|0.4258
-Liberty|St John's|0.4999
-Liberty|St Louis|0.5343
-Liberty|St Mary's CA|0.2156
-Liberty|Syracuse|0.3135
-Liberty|Temple|0.4455
-Liberty|Tennessee|0.1957
-Liberty|Texas Tech|0.1747
-Liberty|UC Irvine|0.4329
-Liberty|UCF|0.3211
-Liberty|Utah St|0.4075
-Liberty|VA Commonwealth|0.2185
-Liberty|Vermont|0.4302
-Liberty|Villanova|0.2336
-Liberty|Virginia|0.0108
-Liberty|Virginia Tech|0.2045
-Liberty|Washington|0.2479
-Liberty|Wisconsin|0.2856
-Liberty|Wofford|0.1921
-Liberty|Yale|0.3313
-Louisville|LSU|0.2284
-Louisville|Marquette|0.4043
-Louisville|Maryland|0.3932
-Louisville|Michigan|0.2995
-Louisville|Michigan St|0.2665
-Louisville|Minnesota|0.7332
-Louisville|Mississippi|0.392
-Louisville|Mississippi St|0.2551
-Louisville|Montana|0.8523
-Louisville|Murray St|0.6067
-Louisville|N Dakota St|0.9049
-Louisville|N Kentucky|0.6669
-Louisville|NC Central|0.9596
-Louisville|Nevada|0.4598
-Louisville|New Mexico St|0.2789
-Louisville|North Carolina|0.2652
-Louisville|Northeastern|0.7934
-Louisville|Ohio St|0.5261
-Louisville|Oklahoma|0.4693
-Louisville|Old Dominion|0.7454
-Louisville|Oregon|0.3379
-Louisville|Prairie View|0.864
-Louisville|Purdue|0.2364
-Louisville|Seton Hall|0.6938
-Louisville|St John's|0.7554
-Louisville|St Louis|0.7447
-Louisville|St Mary's CA|0.3434
-Louisville|Syracuse|0.4993
-Louisville|Temple|0.7182
-Louisville|Tennessee|0.3085
-Louisville|Texas Tech|0.2827
-Louisville|UC Irvine|0.6769
-Louisville|UCF|0.5769
-Louisville|Utah St|0.6813
-Louisville|VA Commonwealth|0.3166
-Louisville|Vermont|0.6777
-Louisville|Villanova|0.3176
-Louisville|Virginia|0.1229
-Louisville|Virginia Tech|0.2984
-Louisville|Washington|0.423
-Louisville|Wisconsin|0.5109
-Louisville|Wofford|0.2732
-Louisville|Yale|0.5575
-LSU|Marquette|0.7394
-LSU|Maryland|0.7219
-LSU|Michigan|0.6257
-LSU|Michigan St|0.48
-LSU|Minnesota|0.9018
-LSU|Mississippi|0.7391
-LSU|Mississippi St|0.5435
-LSU|Montana|0.9479
-LSU|Murray St|0.8564
-LSU|N Dakota St|0.9677
-LSU|N Kentucky|0.8733
-LSU|NC Central|0.9868
-LSU|Nevada|0.7779
-LSU|New Mexico St|0.5772
-LSU|North Carolina|0.4735
-LSU|Northeastern|0.926
-LSU|Ohio St|0.8288
-LSU|Oklahoma|0.8028
-LSU|Old Dominion|0.9079
-LSU|Oregon|0.7259
-LSU|Prairie View|0.9524
-LSU|Purdue|0.4428
-LSU|Seton Hall|0.8898
-LSU|St John's|0.9184
-LSU|St Louis|0.9057
-LSU|St Mary's CA|0.7346
-LSU|Syracuse|0.8008
-LSU|Temple|0.9043
-LSU|Tennessee|0.5831
-LSU|Texas Tech|0.543
-LSU|UC Irvine|0.8798
-LSU|UCF|0.8486
-LSU|Utah St|0.8847
-LSU|VA Commonwealth|0.6774
-LSU|Vermont|0.8806
-LSU|Villanova|0.606
-LSU|Virginia|0.311
-LSU|Virginia Tech|0.5699
-LSU|Washington|0.7869
-LSU|Wisconsin|0.8035
-LSU|Wofford|0.6045
-LSU|Yale|0.8369
-Marquette|Maryland|0.4541
-Marquette|Michigan|0.3362
-Marquette|Michigan St|0.29
-Marquette|Minnesota|0.7882
-Marquette|Mississippi|0.5044
-Marquette|Mississippi St|0.319
-Marquette|Montana|0.8963
-Marquette|Murray St|0.682
-Marquette|N Dakota St|0.9392
-Marquette|N Kentucky|0.7376
-Marquette|NC Central|0.9752
-Marquette|Nevada|0.5163
-Marquette|New Mexico St|0.3568
-Marquette|North Carolina|0.2859
-Marquette|Northeastern|0.8447
-Marquette|Ohio St|0.6284
-Marquette|Oklahoma|0.5772
-Marquette|Old Dominion|0.8057
-Marquette|Oregon|0.4661
-Marquette|Prairie View|0.9097
-Marquette|Purdue|0.268
-Marquette|Seton Hall|0.7557
-Marquette|St John's|0.8105
-Marquette|St Louis|0.8064
-Marquette|St Mary's CA|0.47
-Marquette|Syracuse|0.5969
-Marquette|Temple|0.7794
-Marquette|Tennessee|0.3349
-Marquette|Texas Tech|0.314
-Marquette|UC Irvine|0.7461
-Marquette|UCF|0.6636
-Marquette|Utah St|0.7471
-Marquette|VA Commonwealth|0.4233
-Marquette|Vermont|0.7471
-Marquette|Villanova|0.3659
-Marquette|Virginia|0.1181
-Marquette|Virginia Tech|0.3368
-Marquette|Washington|0.5436
-Marquette|Wisconsin|0.5633
-Marquette|Wofford|0.3244
-Marquette|Yale|0.6523
-Maryland|Michigan|0.39
-Maryland|Michigan St|0.3298
-Maryland|Minnesota|0.8177
-Maryland|Mississippi|0.5484
-Maryland|Mississippi St|0.3547
-Maryland|Montana|0.9089
-Maryland|Murray St|0.7236
-Maryland|N Dakota St|0.9453
-Maryland|N Kentucky|0.7683
-Maryland|NC Central|0.9775
-Maryland|Nevada|0.5848
-Maryland|New Mexico St|0.3885
-Maryland|North Carolina|0.3247
-Maryland|Northeastern|0.8649
-Maryland|Ohio St|0.6716
-Maryland|Oklahoma|0.6258
-Maryland|Old Dominion|0.83
-Maryland|Oregon|0.5094
-Maryland|Prairie View|0.9191
-Maryland|Purdue|0.2952
-Maryland|Seton Hall|0.7877
-Maryland|St John's|0.8371
-Maryland|St Louis|0.8297
-Maryland|St Mary's CA|0.5164
-Maryland|Syracuse|0.6401
-Maryland|Temple|0.8103
-Maryland|Tennessee|0.3795
-Maryland|Texas Tech|0.3554
-Maryland|UC Irvine|0.7775
-Maryland|UCF|0.7064
-Maryland|Utah St|0.7816
-Maryland|VA Commonwealth|0.4671
-Maryland|Vermont|0.7784
-Maryland|Villanova|0.4016
-Maryland|Virginia|0.1777
-Maryland|Virginia Tech|0.3734
-Maryland|Washington|0.5911
-Maryland|Wisconsin|0.6287
-Maryland|Wofford|0.3658
-Maryland|Yale|0.69
-Michigan|Michigan St|0.4329
-Michigan|Minnesota|0.8755
-Michigan|Mississippi|0.6618
-Michigan|Mississippi St|0.446
-Michigan|Montana|0.9324
-Michigan|Murray St|0.8148
-Michigan|N Dakota St|0.9576
-Michigan|N Kentucky|0.8365
-Michigan|NC Central|0.9825
-Michigan|Nevada|0.7263
-Michigan|New Mexico St|0.4769
-Michigan|North Carolina|0.4363
-Michigan|Northeastern|0.9045
-Michigan|Ohio St|0.7722
-Michigan|Oklahoma|0.7398
-Michigan|Old Dominion|0.8807
-Michigan|Oregon|0.6302
-Michigan|Prairie View|0.9377
-Michigan|Purdue|0.3702
-Michigan|Seton Hall|0.8565
-Michigan|St John's|0.8921
-Michigan|St Louis|0.8783
-Michigan|St Mary's CA|0.6415
-Michigan|Syracuse|0.7431
-Michigan|Temple|0.8739
-Michigan|Tennessee|0.5343
-Michigan|Texas Tech|0.4819
-Michigan|UC Irvine|0.8449
-Michigan|UCF|0.8018
-Michigan|Utah St|0.8519
-Michigan|VA Commonwealth|0.584
-Michigan|Vermont|0.8457
-Michigan|Villanova|0.5174
-Michigan|Virginia|0.3375
-Michigan|Virginia Tech|0.496
-Michigan|Washington|0.7147
-Michigan|Wisconsin|0.7603
-Michigan|Wofford|0.498
-Michigan|Yale|0.7835
-Michigan St|Minnesota|0.8893
-Michigan St|Mississippi|0.6988
-Michigan St|Mississippi St|0.4851
-Michigan St|Montana|0.9393
-Michigan St|Murray St|0.8377
-Michigan St|N Dakota St|0.9618
-Michigan St|N Kentucky|0.8539
-Michigan St|NC Central|0.9843
-Michigan St|Nevada|0.7725
-Michigan St|New Mexico St|0.5081
-Michigan St|North Carolina|0.5183
-Michigan St|Northeastern|0.9146
-Michigan St|Ohio St|0.8002
-Michigan St|Oklahoma|0.7722
-Michigan St|Old Dominion|0.8929
-Michigan St|Oregon|0.6708
-Michigan St|Prairie View|0.9438
-Michigan St|Purdue|0.4123
-Michigan St|Seton Hall|0.8737
-Michigan St|St John's|0.9048
-Michigan St|St Louis|0.8903
-Michigan St|St Mary's CA|0.6827
-Michigan St|Syracuse|0.7736
-Michigan St|Temple|0.8891
-Michigan St|Tennessee|0.6103
-Michigan St|Texas Tech|0.5606
-Michigan St|UC Irvine|0.8617
-Michigan St|UCF|0.8281
-Michigan St|Utah St|0.8686
-Michigan St|VA Commonwealth|0.6272
-Michigan St|Vermont|0.8629
-Michigan St|Villanova|0.5661
-Michigan St|Virginia|0.3821
-Michigan St|Virginia Tech|0.5582
-Michigan St|Washington|0.7495
-Michigan St|Wisconsin|0.7981
-Michigan St|Wofford|0.5534
-Michigan St|Yale|0.8078
-Minnesota|Mississippi|0.2273
-Minnesota|Mississippi St|0.1584
-Minnesota|Montana|0.7552
-Minnesota|Murray St|0.3425
-Minnesota|N Dakota St|0.8544
-Minnesota|N Kentucky|0.4394
-Minnesota|NC Central|0.9368
-Minnesota|Nevada|0.2411
-Minnesota|New Mexico St|0.1772
-Minnesota|North Carolina|0.1514
-Minnesota|Northeastern|0.6221
-Minnesota|Ohio St|0.2843
-Minnesota|Oklahoma|0.2482
-Minnesota|Old Dominion|0.5477
-Minnesota|Oregon|0.1887
-Minnesota|Prairie View|0.7937
-Minnesota|Purdue|0.1436
-Minnesota|Seton Hall|0.4536
-Minnesota|St John's|0.5287
-Minnesota|St Louis|0.5573
-Minnesota|St Mary's CA|0.1861
-Minnesota|Syracuse|0.2865
-Minnesota|Temple|0.4738
-Minnesota|Tennessee|0.1851
-Minnesota|Texas Tech|0.1668
-Minnesota|UC Irvine|0.4475
-Minnesota|UCF|0.3155
-Minnesota|Utah St|0.431
-Minnesota|VA Commonwealth|0.1859
-Minnesota|Vermont|0.444
-Minnesota|Villanova|0.1996
-Minnesota|Virginia|0.0343
-Minnesota|Virginia Tech|0.1836
-Minnesota|Washington|0.2218
-Minnesota|Wisconsin|0.2698
-Minnesota|Wofford|0.1642
-Minnesota|Yale|0.3185
-Mississippi|Mississippi St|0.3014
-Mississippi|Montana|0.8926
-Mississippi|Murray St|0.6961
-Mississippi|N Dakota St|0.9334
-Mississippi|N Kentucky|0.7507
-Mississippi|NC Central|0.9724
-Mississippi|Nevada|0.5122
-Mississippi|New Mexico St|0.3385
-Mississippi|North Carolina|0.2562
-Mississippi|Northeastern|0.8482
-Mississippi|Ohio St|0.6329
-Mississippi|Oklahoma|0.5697
-Mississippi|Old Dominion|0.8153
-Mississippi|Oregon|0.4442
-Mississippi|Prairie View|0.9035
-Mississippi|Purdue|0.2622
-Mississippi|Seton Hall|0.7666
-Mississippi|St John's|0.8235
-Mississippi|St Louis|0.8129
-Mississippi|St Mary's CA|0.4499
-Mississippi|Syracuse|0.5918
-Mississippi|Temple|0.7934
-Mississippi|Tennessee|0.3209
-Mississippi|Texas Tech|0.2996
-Mississippi|UC Irvine|0.7587
-Mississippi|UCF|0.6665
-Mississippi|Utah St|0.7573
-Mississippi|VA Commonwealth|0.3936
-Mississippi|Vermont|0.7594
-Mississippi|Villanova|0.3724
-Mississippi|Virginia|0.0616
-Mississippi|Virginia Tech|0.3307
-Mississippi|Washington|0.5352
-Mississippi|Wisconsin|0.5587
-Mississippi|Wofford|0.3299
-Mississippi|Yale|0.6703
-Mississippi St|Montana|0.9387
-Mississippi St|Murray St|0.832
-Mississippi St|N Dakota St|0.9622
-Mississippi St|N Kentucky|0.8532
-Mississippi St|NC Central|0.9845
-Mississippi St|Nevada|0.7481
-Mississippi St|New Mexico St|0.5369
-Mississippi St|North Carolina|0.414
-Mississippi St|Northeastern|0.9132
-Mississippi St|Ohio St|0.803
-Mississippi St|Oklahoma|0.7721
-Mississippi St|Old Dominion|0.8929
-Mississippi St|Oregon|0.6918
-Mississippi St|Prairie View|0.9443
-Mississippi St|Purdue|0.404
-Mississippi St|Seton Hall|0.8702
-Mississippi St|St John's|0.9042
-Mississippi St|St Louis|0.8903
-Mississippi St|St Mary's CA|0.7011
-Mississippi St|Syracuse|0.7696
-Mississippi St|Temple|0.8878
-Mississippi St|Tennessee|0.5148
-Mississippi St|Texas Tech|0.4854
-Mississippi St|UC Irvine|0.8602
-Mississippi St|UCF|0.8229
-Mississippi St|Utah St|0.8646
-Mississippi St|VA Commonwealth|0.6367
-Mississippi St|Vermont|0.861
-Mississippi St|Villanova|0.5786
-Mississippi St|Virginia|0.2079
-Mississippi St|Virginia Tech|0.5264
-Mississippi St|Washington|0.7542
-Mississippi St|Wisconsin|0.7757
-Mississippi St|Wofford|0.5685
-Mississippi St|Yale|0.815
-Montana|Murray St|0.2256
-Montana|N Dakota St|0.7045
-Montana|N Kentucky|0.2793
-Montana|NC Central|0.8671
-Montana|Nevada|0.1737
-Montana|New Mexico St|0.1403
-Montana|North Carolina|0.0521
-Montana|Northeastern|0.3611
-Montana|Ohio St|0.1971
-Montana|Oklahoma|0.179
-Montana|Old Dominion|0.318
-Montana|Oregon|0.1469
-Montana|Prairie View|0.6004
-Montana|Purdue|0.0896
-Montana|Seton Hall|0.2681
-Montana|St John's|0.2785
-Montana|St Louis|0.3314
-Montana|St Mary's CA|0.1424
-Montana|Syracuse|0.2136
-Montana|Temple|0.2581
-Montana|Tennessee|0.0952
-Montana|Texas Tech|0.0849
-Montana|UC Irvine|0.2746
-Montana|UCF|0.2112
-Montana|Utah St|0.2536
-Montana|VA Commonwealth|0.1417
-Montana|Vermont|0.2726
-Montana|Villanova|0.1521
-Montana|Virginia|0.0004
-Montana|Virginia Tech|0.1169
-Montana|Washington|0.1638
-Montana|Wisconsin|0.1734
-Montana|Wofford|0.116
-Montana|Yale|0.2165
-Murray St|N Dakota St|0.8833
-Murray St|N Kentucky|0.5913
-Murray St|NC Central|0.9501
-Murray St|Nevada|0.3445
-Murray St|New Mexico St|0.2514
-Murray St|North Carolina|0.2042
-Murray St|Northeastern|0.7393
-Murray St|Ohio St|0.4237
-Murray St|Oklahoma|0.367
-Murray St|Old Dominion|0.6833
-Murray St|Oregon|0.2776
-Murray St|Prairie View|0.8345
-Murray St|Purdue|0.2049
-Murray St|Seton Hall|0.6091
-Murray St|St John's|0.6825
-Murray St|St Louis|0.685
-Murray St|St Mary's CA|0.2775
-Murray St|Syracuse|0.4055
-Murray St|Temple|0.6346
-Murray St|Tennessee|0.2527
-Murray St|Texas Tech|0.2311
-Murray St|UC Irvine|0.5979
-Murray St|UCF|0.4655
-Murray St|Utah St|0.5878
-Murray St|VA Commonwealth|0.2664
-Murray St|Vermont|0.5981
-Murray St|Villanova|0.2814
-Murray St|Virginia|0.043
-Murray St|Virginia Tech|0.2558
-Murray St|Washington|0.334
-Murray St|Wisconsin|0.3811
-Murray St|Wofford|0.2357
-Murray St|Yale|0.4694
-N Dakota St|N Kentucky|0.2021
-N Dakota St|NC Central|0.7699
-N Dakota St|Nevada|0.1127
-N Dakota St|New Mexico St|0.0956
-N Dakota St|North Carolina|0.0152
-N Dakota St|Northeastern|0.2332
-N Dakota St|Ohio St|0.1367
-N Dakota St|Oklahoma|0.1218
-N Dakota St|Old Dominion|0.2167
-N Dakota St|Oregon|0.101
-N Dakota St|Prairie View|0.3875
-N Dakota St|Purdue|0.0503
-N Dakota St|Seton Hall|0.189
-N Dakota St|St John's|0.1833
-N Dakota St|St Louis|0.2284
-N Dakota St|St Mary's CA|0.0971
-N Dakota St|Syracuse|0.1481
-N Dakota St|Temple|0.1748
-N Dakota St|Tennessee|0.0406
-N Dakota St|Texas Tech|0.0395
-N Dakota St|UC Irvine|0.1935
-N Dakota St|UCF|0.1453
-N Dakota St|Utah St|0.1746
-N Dakota St|VA Commonwealth|0.094
-N Dakota St|Vermont|0.1934
-N Dakota St|Villanova|0.1011
+Iona|Virginia Tech|0.1706
+Iona|Washington|0.3019
+Iona|Wisconsin|0.2339
+Iona|Wofford|0.1897
+Iona|Yale|0.3869
+Iowa|Iowa St|0.0984
+Iowa|Kansas|0.1645
+Iowa|Kansas St|0.1115
+Iowa|Kentucky|0.1121
+Iowa|Liberty|0.2574
+Iowa|Louisville|0.3757
+Iowa|LSU|0.0676
+Iowa|Marquette|0.134
+Iowa|Maryland|0.1365
+Iowa|Michigan|0.1135
+Iowa|Michigan St|0.0767
+Iowa|Minnesota|0.2121
+Iowa|Mississippi|0.3982
+Iowa|Mississippi St|0.0728
+Iowa|Montana|0.8381
+Iowa|Murray St|0.2479
+Iowa|N Dakota St|0.7876
+Iowa|N Kentucky|0.6051
+Iowa|NC Central|0.9415
+Iowa|Nevada|0.2666
+Iowa|New Mexico St|0.2014
+Iowa|North Carolina|0.1073
+Iowa|Northeastern|0.169
+Iowa|Ohio St|0.1667
+Iowa|Oklahoma|0.1442
+Iowa|Old Dominion|0.141
+Iowa|Oregon|0.3449
+Iowa|Prairie View|0.6221
+Iowa|Purdue|0.1021
+Iowa|Seton Hall|0.2287
+Iowa|St John's|0.368
+Iowa|St Louis|0.7802
+Iowa|St Mary's CA|0.0976
+Iowa|Syracuse|0.3342
+Iowa|Temple|0.4543
+Iowa|Tennessee|0.1064
+Iowa|Texas Tech|0.1533
+Iowa|UC Irvine|0.6789
+Iowa|UCF|0.1872
+Iowa|Utah St|0.2238
+Iowa|VA Commonwealth|0.1699
+Iowa|Vermont|0.1614
+Iowa|Villanova|0.1208
+Iowa|Virginia|0.0377
+Iowa|Virginia Tech|0.1827
+Iowa|Washington|0.3497
+Iowa|Wisconsin|0.3473
+Iowa|Wofford|0.1515
+Iowa|Yale|0.4113
+Iowa St|Kansas|0.8184
+Iowa St|Kansas St|0.6776
+Iowa St|Kentucky|0.4215
+Iowa St|Liberty|0.9538
+Iowa St|Louisville|0.9762
+Iowa St|LSU|0.2878
+Iowa St|Marquette|0.8457
+Iowa St|Maryland|0.6815
+Iowa St|Michigan|0.4749
+Iowa St|Michigan St|0.2821
+Iowa St|Minnesota|0.9024
+Iowa St|Mississippi|0.9813
+Iowa St|Mississippi St|0.2711
+Iowa St|Montana|0.9951
+Iowa St|Murray St|0.9433
+Iowa St|N Dakota St|0.9928
+Iowa St|N Kentucky|0.9868
+Iowa St|NC Central|0.9978
+Iowa St|Nevada|0.9497
+Iowa St|New Mexico St|0.9164
+Iowa St|North Carolina|0.3566
+Iowa St|Northeastern|0.9064
+Iowa St|Ohio St|0.9026
+Iowa St|Oklahoma|0.8251
+Iowa St|Old Dominion|0.9035
+Iowa St|Oregon|0.9771
+Iowa St|Prairie View|0.9826
+Iowa St|Purdue|0.4574
+Iowa St|Seton Hall|0.9506
+Iowa St|St John's|0.9744
+Iowa St|St Louis|0.9918
+Iowa St|St Mary's CA|0.7025
+Iowa St|Syracuse|0.9662
+Iowa St|Temple|0.9802
+Iowa St|Tennessee|0.3519
+Iowa St|Texas Tech|0.6938
+Iowa St|UC Irvine|0.99
+Iowa St|UCF|0.9168
+Iowa St|Utah St|0.9382
+Iowa St|VA Commonwealth|0.845
+Iowa St|Vermont|0.907
+Iowa St|Villanova|0.5556
+Iowa St|Virginia|0.1563
+Iowa St|Virginia Tech|0.8013
+Iowa St|Washington|0.9757
+Iowa St|Wisconsin|0.9697
+Iowa St|Wofford|0.8704
+Iowa St|Yale|0.9745
+Kansas|Kansas St|0.3276
+Kansas|Kentucky|0.2566
+Kansas|Liberty|0.8542
+Kansas|Louisville|0.9294
+Kansas|LSU|0.1637
+Kansas|Marquette|0.5333
+Kansas|Maryland|0.3616
+Kansas|Michigan|0.2843
+Kansas|Michigan St|0.206
+Kansas|Minnesota|0.7295
+Kansas|Mississippi|0.9357
+Kansas|Mississippi St|0.1815
+Kansas|Montana|0.9858
+Kansas|Murray St|0.833
+Kansas|N Dakota St|0.9789
+Kansas|N Kentucky|0.9603
+Kansas|NC Central|0.9938
+Kansas|Nevada|0.8507
+Kansas|New Mexico St|0.7491
+Kansas|North Carolina|0.252
+Kansas|Northeastern|0.7057
+Kansas|Ohio St|0.7009
+Kansas|Oklahoma|0.5435
+Kansas|Old Dominion|0.6819
+Kansas|Oregon|0.9193
+Kansas|Prairie View|0.9507
+Kansas|Purdue|0.2609
+Kansas|Seton Hall|0.8394
+Kansas|St John's|0.9173
+Kansas|St Louis|0.9767
+Kansas|St Mary's CA|0.3699
+Kansas|Syracuse|0.8989
+Kansas|Temple|0.9381
+Kansas|Tennessee|0.2394
+Kansas|Texas Tech|0.435
+Kansas|UC Irvine|0.9706
+Kansas|UCF|0.7473
+Kansas|Utah St|0.8121
+Kansas|VA Commonwealth|0.6037
+Kansas|Vermont|0.7059
+Kansas|Villanova|0.2921
+Kansas|Virginia|0.1789
+Kansas|Virginia Tech|0.5399
+Kansas|Washington|0.9196
+Kansas|Wisconsin|0.9071
+Kansas|Wofford|0.6147
+Kansas|Yale|0.9217
+Kansas St|Kentucky|0.2808
+Kansas St|Liberty|0.8959
+Kansas St|Louisville|0.9493
+Kansas St|LSU|0.1772
+Kansas St|Marquette|0.6416
+Kansas St|Maryland|0.44
+Kansas St|Michigan|0.318
+Kansas St|Michigan St|0.2121
+Kansas St|Minnesota|0.7967
+Kansas St|Mississippi|0.9557
+Kansas St|Mississippi St|0.1985
+Kansas St|Montana|0.9898
+Kansas St|Murray St|0.8789
+Kansas St|N Dakota St|0.9848
+Kansas St|N Kentucky|0.9719
+Kansas St|NC Central|0.9955
+Kansas St|Nevada|0.8935
+Kansas St|New Mexico St|0.8156
+Kansas St|North Carolina|0.2646
+Kansas St|Northeastern|0.7831
+Kansas St|Ohio St|0.7781
+Kansas St|Oklahoma|0.6344
+Kansas St|Old Dominion|0.7655
+Kansas St|Oregon|0.9445
+Kansas St|Prairie View|0.9639
+Kansas St|Purdue|0.2898
+Kansas St|Seton Hall|0.8863
+Kansas St|St John's|0.9419
+Kansas St|St Louis|0.983
+Kansas St|St Mary's CA|0.451
+Kansas St|Syracuse|0.9271
+Kansas St|Temple|0.9563
+Kansas St|Tennessee|0.256
+Kansas St|Texas Tech|0.5081
+Kansas St|UC Irvine|0.979
+Kansas St|UCF|0.8131
+Kansas St|Utah St|0.8642
+Kansas St|VA Commonwealth|0.6867
+Kansas St|Vermont|0.7839
+Kansas St|Villanova|0.3351
+Kansas St|Virginia|0.1568
+Kansas St|Virginia Tech|0.6298
+Kansas St|Washington|0.9439
+Kansas St|Wisconsin|0.9348
+Kansas St|Wofford|0.7079
+Kansas St|Yale|0.9448
+Kentucky|Liberty|0.9211
+Kentucky|Louisville|0.9665
+Kentucky|LSU|0.2638
+Kentucky|Marquette|0.7728
+Kentucky|Maryland|0.5922
+Kentucky|Michigan|0.4757
+Kentucky|Michigan St|0.3047
+Kentucky|Minnesota|0.8463
+Kentucky|Mississippi|0.9697
+Kentucky|Mississippi St|0.2757
+Kentucky|Montana|0.9912
+Kentucky|Murray St|0.9108
+Kentucky|N Dakota St|0.9866
+Kentucky|N Kentucky|0.9767
+Kentucky|NC Central|0.9959
+Kentucky|Nevada|0.9344
+Kentucky|New Mexico St|0.8627
+Kentucky|North Carolina|0.4153
+Kentucky|Northeastern|0.8455
+Kentucky|Ohio St|0.8467
+Kentucky|Oklahoma|0.7475
+Kentucky|Old Dominion|0.8408
+Kentucky|Oregon|0.9615
+Kentucky|Prairie View|0.968
+Kentucky|Purdue|0.4585
+Kentucky|Seton Hall|0.9191
+Kentucky|St John's|0.9557
+Kentucky|St Louis|0.9852
+Kentucky|St Mary's CA|0.5943
+Kentucky|Syracuse|0.9458
+Kentucky|Temple|0.9665
+Kentucky|Tennessee|0.361
+Kentucky|Texas Tech|0.7338
+Kentucky|UC Irvine|0.9826
+Kentucky|UCF|0.8722
+Kentucky|Utah St|0.8995
+Kentucky|VA Commonwealth|0.7792
+Kentucky|Vermont|0.8495
+Kentucky|Villanova|0.4641
+Kentucky|Virginia|0.302
+Kentucky|Virginia Tech|0.7735
+Kentucky|Washington|0.9611
+Kentucky|Wisconsin|0.958
+Kentucky|Wofford|0.8202
+Kentucky|Yale|0.9556
+Liberty|Louisville|0.5103
+Liberty|LSU|0.1513
+Liberty|Marquette|0.2634
+Liberty|Maryland|0.2595
+Liberty|Michigan|0.196
+Liberty|Michigan St|0.1296
+Liberty|Minnesota|0.3715
+Liberty|Mississippi|0.6295
+Liberty|Mississippi St|0.1524
+Liberty|Montana|0.9143
+Liberty|Murray St|0.4224
+Liberty|N Dakota St|0.8859
+Liberty|N Kentucky|0.7841
+Liberty|NC Central|0.9634
+Liberty|Nevada|0.3861
+Liberty|New Mexico St|0.372
+Liberty|North Carolina|0.1517
+Liberty|Northeastern|0.3305
+Liberty|Ohio St|0.3213
+Liberty|Oklahoma|0.275
+Liberty|Old Dominion|0.2935
+Liberty|Oregon|0.5991
+Liberty|Prairie View|0.7612
+Liberty|Purdue|0.1974
+Liberty|Seton Hall|0.435
+Liberty|St John's|0.6193
+Liberty|St Louis|0.8667
+Liberty|St Mary's CA|0.1968
+Liberty|Syracuse|0.5271
+Liberty|Temple|0.6757
+Liberty|Tennessee|0.1862
+Liberty|Texas Tech|0.237
+Liberty|UC Irvine|0.8239
+Liberty|UCF|0.3505
+Liberty|Utah St|0.4116
+Liberty|VA Commonwealth|0.3096
+Liberty|Vermont|0.319
+Liberty|Villanova|0.2383
+Liberty|Virginia|0.0127
+Liberty|Virginia Tech|0.2976
+Liberty|Washington|0.5738
+Liberty|Wisconsin|0.4607
+Liberty|Wofford|0.28
+Liberty|Yale|0.6439
+Louisville|LSU|0.1127
+Louisville|Marquette|0.2215
+Louisville|Maryland|0.2166
+Louisville|Michigan|0.1883
+Louisville|Michigan St|0.1335
+Louisville|Minnesota|0.3537
+Louisville|Mississippi|0.7095
+Louisville|Mississippi St|0.1198
+Louisville|Montana|0.9352
+Louisville|Murray St|0.4796
+Louisville|N Dakota St|0.9056
+Louisville|N Kentucky|0.8293
+Louisville|NC Central|0.9708
+Louisville|Nevada|0.547
+Louisville|New Mexico St|0.3559
+Louisville|North Carolina|0.1794
+Louisville|Northeastern|0.3044
+Louisville|Ohio St|0.2981
+Louisville|Oklahoma|0.2324
+Louisville|Old Dominion|0.2628
+Louisville|Oregon|0.658
+Louisville|Prairie View|0.803
+Louisville|Purdue|0.1668
+Louisville|Seton Hall|0.471
+Louisville|St John's|0.6673
+Louisville|St Louis|0.8978
+Louisville|St Mary's CA|0.1571
+Louisville|Syracuse|0.6275
+Louisville|Temple|0.7397
+Louisville|Tennessee|0.1757
+Louisville|Texas Tech|0.2493
+Louisville|UC Irvine|0.8682
+Louisville|UCF|0.3402
+Louisville|Utah St|0.4313
+Louisville|VA Commonwealth|0.2683
+Louisville|Vermont|0.2948
+Louisville|Villanova|0.1914
+Louisville|Virginia|0.0963
+Louisville|Virginia Tech|0.2892
+Louisville|Washington|0.662
+Louisville|Wisconsin|0.6745
+Louisville|Wofford|0.2634
+Louisville|Yale|0.6959
+LSU|Marquette|0.8531
+LSU|Maryland|0.7027
+LSU|Michigan|0.5693
+LSU|Michigan St|0.3684
+LSU|Minnesota|0.9051
+LSU|Mississippi|0.982
+LSU|Mississippi St|0.3699
+LSU|Montana|0.995
+LSU|Murray St|0.9451
+LSU|N Dakota St|0.9924
+LSU|N Kentucky|0.9865
+LSU|NC Central|0.9977
+LSU|Nevada|0.9522
+LSU|New Mexico St|0.9177
+LSU|North Carolina|0.4577
+LSU|Northeastern|0.9085
+LSU|Ohio St|0.9067
+LSU|Oklahoma|0.8411
+LSU|Old Dominion|0.9103
+LSU|Oregon|0.9775
+LSU|Prairie View|0.9817
+LSU|Purdue|0.5576
+LSU|Seton Hall|0.9514
+LSU|St John's|0.9741
+LSU|St Louis|0.9915
+LSU|St Mary's CA|0.7546
+LSU|Syracuse|0.9671
+LSU|Temple|0.9803
+LSU|Tennessee|0.4325
+LSU|Texas Tech|0.7635
+LSU|UC Irvine|0.9899
+LSU|UCF|0.9208
+LSU|Utah St|0.9399
+LSU|VA Commonwealth|0.8569
+LSU|Vermont|0.9109
+LSU|Villanova|0.5855
+LSU|Virginia|0.3032
+LSU|Virginia Tech|0.8217
+LSU|Washington|0.9769
+LSU|Wisconsin|0.9704
+LSU|Wofford|0.8776
+LSU|Yale|0.9741
+Marquette|Maryland|0.3326
+Marquette|Michigan|0.2862
+Marquette|Michigan St|0.2128
+Marquette|Minnesota|0.6079
+Marquette|Mississippi|0.8796
+Marquette|Mississippi St|0.1944
+Marquette|Montana|0.9725
+Marquette|Murray St|0.7218
+Marquette|N Dakota St|0.9598
+Marquette|N Kentucky|0.9246
+Marquette|NC Central|0.9882
+Marquette|Nevada|0.7176
+Marquette|New Mexico St|0.6318
+Marquette|North Carolina|0.2575
+Marquette|Northeastern|0.5853
+Marquette|Ohio St|0.5773
+Marquette|Oklahoma|0.4404
+Marquette|Old Dominion|0.562
+Marquette|Oregon|0.8547
+Marquette|Prairie View|0.9094
+Marquette|Purdue|0.2663
+Marquette|Seton Hall|0.7345
+Marquette|St John's|0.8514
+Marquette|St Louis|0.9554
+Marquette|St Mary's CA|0.3138
+Marquette|Syracuse|0.8159
+Marquette|Temple|0.8839
+Marquette|Tennessee|0.2621
+Marquette|Texas Tech|0.3604
+Marquette|UC Irvine|0.9427
+Marquette|UCF|0.6182
+Marquette|Utah St|0.6994
+Marquette|VA Commonwealth|0.4835
+Marquette|Vermont|0.58
+Marquette|Villanova|0.3014
+Marquette|Virginia|0.1161
+Marquette|Virginia Tech|0.4201
+Marquette|Washington|0.8511
+Marquette|Wisconsin|0.8102
+Marquette|Wofford|0.4598
+Marquette|Yale|0.8589
+Maryland|Michigan|0.333
+Maryland|Michigan St|0.2249
+Maryland|Minnesota|0.8134
+Maryland|Mississippi|0.9595
+Maryland|Mississippi St|0.2139
+Maryland|Montana|0.991
+Maryland|Murray St|0.8895
+Maryland|N Dakota St|0.9866
+Maryland|N Kentucky|0.9748
+Maryland|NC Central|0.9961
+Maryland|Nevada|0.8999
+Maryland|New Mexico St|0.8301
+Maryland|North Carolina|0.2843
+Maryland|Northeastern|0.8001
+Maryland|Ohio St|0.7956
+Maryland|Oklahoma|0.6601
+Maryland|Old Dominion|0.7858
+Maryland|Oregon|0.9492
+Maryland|Prairie View|0.9685
+Maryland|Purdue|0.3082
+Maryland|Seton Hall|0.8957
+Maryland|St John's|0.947
+Maryland|St Louis|0.9852
+Maryland|St Mary's CA|0.4947
+Maryland|Syracuse|0.9343
+Maryland|Temple|0.9606
+Maryland|Tennessee|0.2746
+Maryland|Texas Tech|0.5309
+Maryland|UC Irvine|0.9813
+Maryland|UCF|0.8287
+Maryland|Utah St|0.8754
+Maryland|VA Commonwealth|0.711
+Maryland|Vermont|0.7999
+Maryland|Villanova|0.3555
+Maryland|Virginia|0.174
+Maryland|Virginia Tech|0.6516
+Maryland|Washington|0.9487
+Maryland|Wisconsin|0.938
+Maryland|Wofford|0.7287
+Maryland|Yale|0.9498
+Michigan|Michigan St|0.3174
+Michigan|Minnesota|0.9271
+Michigan|Mississippi|0.9863
+Michigan|Mississippi St|0.3128
+Michigan|Montana|0.9963
+Michigan|Murray St|0.9589
+Michigan|N Dakota St|0.9943
+Michigan|N Kentucky|0.9899
+Michigan|NC Central|0.9983
+Michigan|Nevada|0.9661
+Michigan|New Mexico St|0.935
+Michigan|North Carolina|0.525
+Michigan|Northeastern|0.9241
+Michigan|Ohio St|0.9245
+Michigan|Oklahoma|0.8649
+Michigan|Old Dominion|0.9212
+Michigan|Oregon|0.9826
+Michigan|Prairie View|0.9862
+Michigan|Purdue|0.6
+Michigan|Seton Hall|0.9624
+Michigan|St John's|0.9803
+Michigan|St Louis|0.9936
+Michigan|St Mary's CA|0.7612
+Michigan|Syracuse|0.9757
+Michigan|Temple|0.9853
+Michigan|Tennessee|0.4443
+Michigan|Texas Tech|0.8362
+Michigan|UC Irvine|0.9925
+Michigan|UCF|0.9383
+Michigan|Utah St|0.9537
+Michigan|VA Commonwealth|0.8873
+Michigan|Vermont|0.9258
+Michigan|Villanova|0.612
+Michigan|Virginia|0.3521
+Michigan|Virginia Tech|0.8717
+Michigan|Washington|0.9825
+Michigan|Wisconsin|0.979
+Michigan|Wofford|0.903
+Michigan|Yale|0.9805
+Michigan St|Minnesota|0.9362
+Michigan St|Mississippi|0.9884
+Michigan St|Mississippi St|0.3741
+Michigan St|Montana|0.9966
+Michigan St|Murray St|0.9646
+Michigan St|N Dakota St|0.9948
+Michigan St|N Kentucky|0.991
+Michigan St|NC Central|0.9984
+Michigan St|Nevada|0.974
+Michigan St|New Mexico St|0.9435
+Michigan St|North Carolina|0.6785
+Michigan St|Northeastern|0.9365
+Michigan St|Ohio St|0.9373
+Michigan St|Oklahoma|0.892
+Michigan St|Old Dominion|0.9366
+Michigan St|Oregon|0.9852
+Michigan St|Prairie View|0.9875
+Michigan St|Purdue|0.7103
+Michigan St|Seton Hall|0.9681
+Michigan St|St John's|0.9828
+Michigan St|St Louis|0.9943
+Michigan St|St Mary's CA|0.8137
+Michigan St|Syracuse|0.9789
+Michigan St|Temple|0.9871
+Michigan St|Tennessee|0.5604
+Michigan St|Texas Tech|0.889
+Michigan St|UC Irvine|0.9933
+Michigan St|UCF|0.9489
+Michigan St|Utah St|0.9599
+Michigan St|VA Commonwealth|0.9061
+Michigan St|Vermont|0.9385
+Michigan St|Villanova|0.6868
+Michigan St|Virginia|0.4346
+Michigan St|Virginia Tech|0.9029
+Michigan St|Washington|0.985
+Michigan St|Wisconsin|0.9834
+Michigan St|Wofford|0.9237
+Michigan St|Yale|0.9826
+Minnesota|Mississippi|0.9586
+Minnesota|Mississippi St|0.1899
+Minnesota|Montana|0.9911
+Minnesota|Murray St|0.8844
+Minnesota|N Dakota St|0.9872
+Minnesota|N Kentucky|0.9752
+Minnesota|NC Central|0.9961
+Minnesota|Nevada|0.8661
+Minnesota|New Mexico St|0.8361
+Minnesota|North Carolina|0.2405
+Minnesota|Northeastern|0.8047
+Minnesota|Ohio St|0.7951
+Minnesota|Oklahoma|0.6394
+Minnesota|Old Dominion|0.7925
+Minnesota|Oregon|0.9506
+Minnesota|Prairie View|0.9692
+Minnesota|Purdue|0.2662
+Minnesota|Seton Hall|0.8975
+Minnesota|St John's|0.9503
+Minnesota|St Louis|0.9851
+Minnesota|St Mary's CA|0.4501
+Minnesota|Syracuse|0.9317
+Minnesota|Temple|0.9616
+Minnesota|Tennessee|0.2532
+Minnesota|Texas Tech|0.3869
+Minnesota|UC Irvine|0.9812
+Minnesota|UCF|0.8206
+Minnesota|Utah St|0.8756
+Minnesota|VA Commonwealth|0.6839
+Minnesota|Vermont|0.8024
+Minnesota|Villanova|0.3397
+Minnesota|Virginia|0.0678
+Minnesota|Virginia Tech|0.5363
+Minnesota|Washington|0.9484
+Minnesota|Wisconsin|0.9228
+Minnesota|Wofford|0.6919
+Minnesota|Yale|0.9526
+Mississippi|Mississippi St|0.1008
+Mississippi|Montana|0.8912
+Mississippi|Murray St|0.3354
+Mississippi|N Dakota St|0.8538
+Mississippi|N Kentucky|0.7197
+Mississippi|NC Central|0.9548
+Mississippi|Nevada|0.3481
+Mississippi|New Mexico St|0.2701
+Mississippi|North Carolina|0.1429
+Mississippi|Northeastern|0.2292
+Mississippi|Ohio St|0.2253
+Mississippi|Oklahoma|0.1941
+Mississippi|Old Dominion|0.1952
+Mississippi|Oregon|0.4834
+Mississippi|Prairie View|0.7127
+Mississippi|Purdue|0.1413
+Mississippi|Seton Hall|0.3208
+Mississippi|St John's|0.5039
+Mississippi|St Louis|0.8387
+Mississippi|St Mary's CA|0.1331
+Mississippi|Syracuse|0.4498
+Mississippi|Temple|0.5886
+Mississippi|Tennessee|0.1485
+Mississippi|Texas Tech|0.2058
+Mississippi|UC Irvine|0.7776
+Mississippi|UCF|0.2529
+Mississippi|Utah St|0.3058
+Mississippi|VA Commonwealth|0.225
+Mississippi|Vermont|0.2217
+Mississippi|Villanova|0.1638
+Mississippi|Virginia|0.0356
+Mississippi|Virginia Tech|0.2421
+Mississippi|Washington|0.4797
+Mississippi|Wisconsin|0.4401
+Mississippi|Wofford|0.2041
+Mississippi|Yale|0.5462
+Mississippi St|Montana|0.9974
+Mississippi St|Murray St|0.9694
+Mississippi St|N Dakota St|0.9961
+Mississippi St|N Kentucky|0.9929
+Mississippi St|NC Central|0.9988
+Mississippi St|Nevada|0.9739
+Mississippi St|New Mexico St|0.9542
+Mississippi St|North Carolina|0.4928
+Mississippi St|Northeastern|0.9501
+Mississippi St|Ohio St|0.9482
+Mississippi St|Oklahoma|0.9077
+Mississippi St|Old Dominion|0.9521
+Mississippi St|Oregon|0.9879
+Mississippi St|Prairie View|0.9905
+Mississippi St|Purdue|0.6699
+Mississippi St|Seton Hall|0.9735
+Mississippi St|St John's|0.9861
+Mississippi St|St Louis|0.9956
+Mississippi St|St Mary's CA|0.8539
+Mississippi St|Syracuse|0.9818
+Mississippi St|Temple|0.9894
+Mississippi St|Tennessee|0.4872
+Mississippi St|Texas Tech|0.8367
+Mississippi St|UC Irvine|0.9946
+Mississippi St|UCF|0.9553
+Mississippi St|Utah St|0.9665
+Mississippi St|VA Commonwealth|0.9161
+Mississippi St|Vermont|0.9508
+Mississippi St|Villanova|0.7349
+Mississippi St|Virginia|0.2378
+Mississippi St|Virginia Tech|0.8919
+Mississippi St|Washington|0.9872
+Mississippi St|Wisconsin|0.9842
+Mississippi St|Wofford|0.9338
+Mississippi St|Yale|0.9862
+Montana|Murray St|0.231
+Montana|N Dakota St|0.5849
+Montana|N Kentucky|0.3736
+Montana|NC Central|0.8565
+Montana|Nevada|0.2262
+Montana|New Mexico St|0.2056
+Montana|North Carolina|0.0528
+Montana|Northeastern|0.1735
+Montana|Ohio St|0.1668
+Montana|Oklahoma|0.1458
+Montana|Old Dominion|0.1445
+Montana|Oregon|0.2106
+Montana|Prairie View|0.4332
+Montana|Purdue|0.0889
+Montana|Seton Hall|0.2069
+Montana|St John's|0.2531
+Montana|St Louis|0.5533
+Montana|St Mary's CA|0.0997
+Montana|Syracuse|0.2551
+Montana|Temple|0.283
+Montana|Tennessee|0.0848
+Montana|Texas Tech|0.0999
+Montana|UC Irvine|0.4082
+Montana|UCF|0.1894
+Montana|Utah St|0.2122
+Montana|VA Commonwealth|0.1725
+Montana|Vermont|0.1663
+Montana|Villanova|0.1238
+Montana|Virginia|0.0003
+Montana|Virginia Tech|0.152
+Montana|Washington|0.2202
+Montana|Wisconsin|0.2155
+Montana|Wofford|0.1453
+Montana|Yale|0.285
+Murray St|N Dakota St|0.9469
+Murray St|N Kentucky|0.9043
+Murray St|NC Central|0.9835
+Murray St|Nevada|0.6539
+Murray St|New Mexico St|0.5427
+Murray St|North Carolina|0.2032
+Murray St|Northeastern|0.4947
+Murray St|Ohio St|0.4829
+Murray St|Oklahoma|0.3528
+Murray St|Old Dominion|0.4594
+Murray St|Oregon|0.8201
+Murray St|Prairie View|0.8796
+Murray St|Purdue|0.2294
+Murray St|Seton Hall|0.6751
+Murray St|St John's|0.8177
+Murray St|St Louis|0.9395
+Murray St|St Mary's CA|0.234
+Murray St|Syracuse|0.7701
+Murray St|Temple|0.8552
+Murray St|Tennessee|0.2245
+Murray St|Texas Tech|0.3043
+Murray St|UC Irvine|0.9249
+Murray St|UCF|0.5297
+Murray St|Utah St|0.6214
+Murray St|VA Commonwealth|0.3906
+Murray St|Vermont|0.4853
+Murray St|Villanova|0.2687
+Murray St|Virginia|0.0442
+Murray St|Virginia Tech|0.37
+Murray St|Washington|0.8108
+Murray St|Wisconsin|0.76
+Murray St|Wofford|0.388
+Murray St|Yale|0.8249
+N Dakota St|N Kentucky|0.2375
+N Dakota St|NC Central|0.7239
+N Dakota St|Nevada|0.1683
+N Dakota St|New Mexico St|0.1551
+N Dakota St|North Carolina|0.021
+N Dakota St|Northeastern|0.1285
+N Dakota St|Ohio St|0.1218
+N Dakota St|Oklahoma|0.1074
+N Dakota St|Old Dominion|0.106
+N Dakota St|Oregon|0.1477
+N Dakota St|Prairie View|0.3185
+N Dakota St|Purdue|0.0592
+N Dakota St|Seton Hall|0.1547
+N Dakota St|St John's|0.181
+N Dakota St|St Louis|0.3455
+N Dakota St|St Mary's CA|0.0719
+N Dakota St|Syracuse|0.1908
+N Dakota St|Temple|0.2026
+N Dakota St|Tennessee|0.0451
+N Dakota St|Texas Tech|0.0546
+N Dakota St|UC Irvine|0.2474
+N Dakota St|UCF|0.1431
+N Dakota St|Utah St|0.1584
+N Dakota St|VA Commonwealth|0.1289
+N Dakota St|Vermont|0.1225
+N Dakota St|Villanova|0.0923
 N Dakota St|Virginia|0.0
-N Dakota St|Virginia Tech|0.067
-N Dakota St|Washington|0.1112
-N Dakota St|Wisconsin|0.106
-N Dakota St|Wofford|0.0693
-N Dakota St|Yale|0.1529
-N Kentucky|NC Central|0.9426
-N Kentucky|Nevada|0.2707
-N Kentucky|New Mexico St|0.221
-N Kentucky|North Carolina|0.0938
-N Kentucky|Northeastern|0.6732
-N Kentucky|Ohio St|0.3355
-N Kentucky|Oklahoma|0.2937
-N Kentucky|Old Dominion|0.6139
-N Kentucky|Oregon|0.2361
-N Kentucky|Prairie View|0.8101
-N Kentucky|Purdue|0.1524
-N Kentucky|Seton Hall|0.4976
-N Kentucky|St John's|0.5849
-N Kentucky|St Louis|0.6193
-N Kentucky|St Mary's CA|0.233
-N Kentucky|Syracuse|0.3341
-N Kentucky|Temple|0.5256
-N Kentucky|Tennessee|0.1543
-N Kentucky|Texas Tech|0.1502
-N Kentucky|UC Irvine|0.5057
-N Kentucky|UCF|0.3595
-N Kentucky|Utah St|0.4696
-N Kentucky|VA Commonwealth|0.2252
-N Kentucky|Vermont|0.5061
-N Kentucky|Villanova|0.2392
-N Kentucky|Virginia|0.0016
-N Kentucky|Virginia Tech|0.1945
-N Kentucky|Washington|0.2669
-N Kentucky|Wisconsin|0.2856
-N Kentucky|Wofford|0.1882
-N Kentucky|Yale|0.3879
-NC Central|Nevada|0.0494
-NC Central|New Mexico St|0.0457
-NC Central|North Carolina|0.0025
-NC Central|Northeastern|0.122
-NC Central|Ohio St|0.066
-NC Central|Oklahoma|0.0571
-NC Central|Old Dominion|0.1137
-NC Central|Oregon|0.0483
-NC Central|Prairie View|0.2045
-NC Central|Purdue|0.0179
-NC Central|Seton Hall|0.0958
-NC Central|St John's|0.0933
-NC Central|St Louis|0.1209
-NC Central|St Mary's CA|0.0459
-NC Central|Syracuse|0.0712
-NC Central|Temple|0.0879
-NC Central|Tennessee|0.0106
-NC Central|Texas Tech|0.011
-NC Central|UC Irvine|0.0984
-NC Central|UCF|0.0698
-NC Central|Utah St|0.0852
-NC Central|VA Commonwealth|0.0429
-NC Central|Vermont|0.0988
-NC Central|Villanova|0.0461
+N Dakota St|Virginia Tech|0.0988
+N Dakota St|Washington|0.1602
+N Dakota St|Wisconsin|0.1424
+N Dakota St|Wofford|0.0992
+N Dakota St|Yale|0.2056
+N Kentucky|NC Central|0.892
+N Kentucky|Nevada|0.26
+N Kentucky|New Mexico St|0.235
+N Kentucky|North Carolina|0.0721
+N Kentucky|Northeastern|0.2008
+N Kentucky|Ohio St|0.1951
+N Kentucky|Oklahoma|0.1715
+N Kentucky|Old Dominion|0.1681
+N Kentucky|Oregon|0.2624
+N Kentucky|Prairie View|0.5021
+N Kentucky|Purdue|0.1112
+N Kentucky|Seton Hall|0.2396
+N Kentucky|St John's|0.3037
+N Kentucky|St Louis|0.6506
+N Kentucky|St Mary's CA|0.1181
+N Kentucky|Syracuse|0.2978
+N Kentucky|Temple|0.3452
+N Kentucky|Tennessee|0.1041
+N Kentucky|Texas Tech|0.1329
+N Kentucky|UC Irvine|0.5237
+N Kentucky|UCF|0.2183
+N Kentucky|Utah St|0.2448
+N Kentucky|VA Commonwealth|0.2005
+N Kentucky|Vermont|0.1925
+N Kentucky|Villanova|0.1456
+N Kentucky|Virginia|0.0012
+N Kentucky|Virginia Tech|0.1874
+N Kentucky|Washington|0.2663
+N Kentucky|Wisconsin|0.2635
+N Kentucky|Wofford|0.1705
+N Kentucky|Yale|0.3372
+NC Central|Nevada|0.0712
+NC Central|New Mexico St|0.0648
+NC Central|North Carolina|0.0036
+NC Central|Northeastern|0.052
+NC Central|Ohio St|0.0477
+NC Central|Oklahoma|0.0421
+NC Central|Old Dominion|0.0427
+NC Central|Oregon|0.0592
+NC Central|Prairie View|0.1458
+NC Central|Purdue|0.0187
+NC Central|Seton Hall|0.0636
+NC Central|St John's|0.0762
+NC Central|St Louis|0.1539
+NC Central|St Mary's CA|0.0274
+NC Central|Syracuse|0.0796
+NC Central|Temple|0.0892
+NC Central|Tennessee|0.012
+NC Central|Texas Tech|0.0138
+NC Central|UC Irvine|0.1069
+NC Central|UCF|0.0592
+NC Central|Utah St|0.0645
+NC Central|VA Commonwealth|0.0515
+NC Central|Vermont|0.0491
+NC Central|Villanova|0.0361
 NC Central|Virginia|0.0
-NC Central|Virginia Tech|0.0243
-NC Central|Washington|0.0525
-NC Central|Wisconsin|0.0423
-NC Central|Wofford|0.0278
-NC Central|Yale|0.0763
-Nevada|New Mexico St|0.2851
-Nevada|North Carolina|0.2756
-Nevada|Northeastern|0.7981
-Nevada|Ohio St|0.5424
-Nevada|Oklahoma|0.4911
-Nevada|Old Dominion|0.747
-Nevada|Oregon|0.3679
-Nevada|Prairie View|0.8786
-Nevada|Purdue|0.2429
-Nevada|Seton Hall|0.6931
-Nevada|St John's|0.7534
-Nevada|St Louis|0.7484
-Nevada|St Mary's CA|0.3719
-Nevada|Syracuse|0.5174
-Nevada|Temple|0.7164
-Nevada|Tennessee|0.3123
-Nevada|Texas Tech|0.2926
-Nevada|UC Irvine|0.678
-Nevada|UCF|0.5885
-Nevada|Utah St|0.6814
-Nevada|VA Commonwealth|0.3396
-Nevada|Vermont|0.6794
-Nevada|Villanova|0.3181
-Nevada|Virginia|0.1537
-Nevada|Virginia Tech|0.3044
-Nevada|Washington|0.449
-Nevada|Wisconsin|0.5009
-Nevada|Wofford|0.2749
-Nevada|Yale|0.5645
-New Mexico St|North Carolina|0.2686
-New Mexico St|Northeastern|0.893
-New Mexico St|Ohio St|0.7436
-New Mexico St|Oklahoma|0.6859
-New Mexico St|Old Dominion|0.8728
-New Mexico St|Oregon|0.604
-New Mexico St|Prairie View|0.936
-New Mexico St|Purdue|0.3191
-New Mexico St|Seton Hall|0.8312
-New Mexico St|St John's|0.8788
-New Mexico St|St Louis|0.87
-New Mexico St|St Mary's CA|0.6067
-New Mexico St|Syracuse|0.6905
-New Mexico St|Temple|0.8555
-New Mexico St|Tennessee|0.35
-New Mexico St|Texas Tech|0.3372
-New Mexico St|UC Irvine|0.8277
-New Mexico St|UCF|0.753
-New Mexico St|Utah St|0.8241
-New Mexico St|VA Commonwealth|0.5195
-New Mexico St|Vermont|0.8274
-New Mexico St|Villanova|0.4674
-New Mexico St|Virginia|0.0431
-New Mexico St|Virginia Tech|0.389
-New Mexico St|Washington|0.6725
-New Mexico St|Wisconsin|0.6132
-New Mexico St|Wofford|0.4281
-New Mexico St|Yale|0.7755
-North Carolina|Northeastern|0.8922
-North Carolina|Ohio St|0.749
-North Carolina|Oklahoma|0.7152
-North Carolina|Old Dominion|0.8655
-North Carolina|Oregon|0.5837
-North Carolina|Prairie View|0.9286
-North Carolina|Purdue|0.3503
-North Carolina|Seton Hall|0.8411
-North Carolina|St John's|0.8793
-North Carolina|St Louis|0.8627
-North Carolina|St Mary's CA|0.5965
-North Carolina|Syracuse|0.7206
-North Carolina|Temple|0.8593
-North Carolina|Tennessee|0.5479
-North Carolina|Texas Tech|0.4935
-North Carolina|UC Irvine|0.8271
-North Carolina|UCF|0.7831
-North Carolina|Utah St|0.8351
-North Carolina|VA Commonwealth|0.5401
-North Carolina|Vermont|0.8285
-North Carolina|Villanova|0.4931
-North Carolina|Virginia|0.3435
-North Carolina|Virginia Tech|0.4875
-North Carolina|Washington|0.682
-North Carolina|Wisconsin|0.76
-North Carolina|Wofford|0.4696
-North Carolina|Yale|0.7593
-Northeastern|Ohio St|0.2601
-Northeastern|Oklahoma|0.2372
-Northeastern|Old Dominion|0.45
-Northeastern|Oregon|0.1931
-Northeastern|Prairie View|0.7124
-Northeastern|Purdue|0.1329
-Northeastern|Seton Hall|0.362
-Northeastern|St John's|0.4128
-Northeastern|St Louis|0.4623
-Northeastern|St Mary's CA|0.1886
-Northeastern|Syracuse|0.2771
-Northeastern|Temple|0.3679
-Northeastern|Tennessee|0.1453
-Northeastern|Texas Tech|0.1374
-Northeastern|UC Irvine|0.368
-Northeastern|UCF|0.279
-Northeastern|Utah St|0.3459
-Northeastern|VA Commonwealth|0.1889
-Northeastern|Vermont|0.3671
-Northeastern|Villanova|0.2024
-Northeastern|Virginia|0.0026
-Northeastern|Virginia Tech|0.171
-Northeastern|Washington|0.2148
-Northeastern|Wisconsin|0.2426
-Northeastern|Wofford|0.1609
-Northeastern|Yale|0.284
-Ohio St|Oklahoma|0.3822
-Ohio St|Old Dominion|0.7065
-Ohio St|Oregon|0.2827
-Ohio St|Prairie View|0.8522
-Ohio St|Purdue|0.1986
-Ohio St|Seton Hall|0.6274
-Ohio St|St John's|0.6995
-Ohio St|St Louis|0.7088
-Ohio St|St Mary's CA|0.2834
-Ohio St|Syracuse|0.4201
-Ohio St|Temple|0.6535
-Ohio St|Tennessee|0.2456
-Ohio St|Texas Tech|0.2245
-Ohio St|UC Irvine|0.6207
-Ohio St|UCF|0.4809
-Ohio St|Utah St|0.6108
-Ohio St|VA Commonwealth|0.2643
-Ohio St|Vermont|0.6193
-Ohio St|Villanova|0.2749
-Ohio St|Virginia|0.0375
-Ohio St|Virginia Tech|0.2496
-Ohio St|Washington|0.3456
-Ohio St|Wisconsin|0.3862
-Ohio St|Wofford|0.2279
-Ohio St|Yale|0.4887
-Oklahoma|Old Dominion|0.7503
-Oklahoma|Oregon|0.3399
-Oklahoma|Prairie View|0.8682
-Oklahoma|Purdue|0.2329
-Oklahoma|Seton Hall|0.6898
-Oklahoma|St John's|0.7556
-Oklahoma|St Louis|0.7496
-Oklahoma|St Mary's CA|0.3428
-Oklahoma|Syracuse|0.4926
-Oklahoma|Temple|0.7168
-Oklahoma|Tennessee|0.288
-Oklahoma|Texas Tech|0.2687
-Oklahoma|UC Irvine|0.6789
-Oklahoma|UCF|0.5652
-Oklahoma|Utah St|0.6786
-Oklahoma|VA Commonwealth|0.3134
-Oklahoma|Vermont|0.6789
-Oklahoma|Villanova|0.3164
-Oklahoma|Virginia|0.0775
-Oklahoma|Virginia Tech|0.2916
-Oklahoma|Washington|0.4188
-Oklahoma|Wisconsin|0.4724
-Oklahoma|Wofford|0.2694
-Oklahoma|Yale|0.5618
-Old Dominion|Oregon|0.2129
-Old Dominion|Prairie View|0.7252
-Old Dominion|Purdue|0.1375
-Old Dominion|Seton Hall|0.3848
-Old Dominion|St John's|0.4389
-Old Dominion|St Louis|0.4917
-Old Dominion|St Mary's CA|0.2074
-Old Dominion|Syracuse|0.2988
-Old Dominion|Temple|0.3938
-Old Dominion|Tennessee|0.1461
-Old Dominion|Texas Tech|0.1346
-Old Dominion|UC Irvine|0.3969
-Old Dominion|UCF|0.3
-Old Dominion|Utah St|0.3714
-Old Dominion|VA Commonwealth|0.2068
-Old Dominion|Vermont|0.3941
-Old Dominion|Villanova|0.2196
-Old Dominion|Virginia|0.0013
-Old Dominion|Virginia Tech|0.1775
-Old Dominion|Washington|0.2357
-Old Dominion|Wisconsin|0.2515
-Old Dominion|Wofford|0.1752
-Old Dominion|Yale|0.3117
-Oregon|Prairie View|0.8987
-Oregon|Purdue|0.297
-Oregon|Seton Hall|0.7559
-Oregon|St John's|0.8183
-Oregon|St Louis|0.8048
-Oregon|St Mary's CA|0.49
-Oregon|Syracuse|0.5931
-Oregon|Temple|0.7874
-Oregon|Tennessee|0.3145
-Oregon|Texas Tech|0.3148
-Oregon|UC Irvine|0.7496
-Oregon|UCF|0.665
-Oregon|Utah St|0.7454
-Oregon|VA Commonwealth|0.4307
-Oregon|Vermont|0.7507
-Oregon|Villanova|0.4108
-Oregon|Virginia|0.0245
-Oregon|Virginia Tech|0.3616
-Oregon|Washington|0.5538
-Oregon|Wisconsin|0.5385
-Oregon|Wofford|0.3666
-Oregon|Yale|0.6788
-Prairie View|Purdue|0.055
-Prairie View|Seton Hall|0.2091
-Prairie View|St John's|0.2189
-Prairie View|St Louis|0.2723
-Prairie View|St Mary's CA|0.106
-Prairie View|Syracuse|0.1615
-Prairie View|Temple|0.2008
-Prairie View|Tennessee|0.0452
-Prairie View|Texas Tech|0.0429
-Prairie View|UC Irvine|0.2152
-Prairie View|UCF|0.1597
-Prairie View|Utah St|0.1934
-Prairie View|VA Commonwealth|0.1035
-Prairie View|Vermont|0.2131
-Prairie View|Villanova|0.1112
+NC Central|Virginia Tech|0.0319
+NC Central|Washington|0.0678
+NC Central|Wisconsin|0.0505
+NC Central|Wofford|0.0362
+NC Central|Yale|0.0871
+Nevada|New Mexico St|0.3501
+Nevada|North Carolina|0.1809
+Nevada|Northeastern|0.3056
+Nevada|Ohio St|0.302
+Nevada|Oklahoma|0.2393
+Nevada|Old Dominion|0.2638
+Nevada|Oregon|0.5919
+Nevada|Prairie View|0.7488
+Nevada|Purdue|0.1734
+Nevada|Seton Hall|0.4308
+Nevada|St John's|0.6001
+Nevada|St Louis|0.8625
+Nevada|St Mary's CA|0.1593
+Nevada|Syracuse|0.5626
+Nevada|Temple|0.6725
+Nevada|Tennessee|0.1718
+Nevada|Texas Tech|0.2576
+Nevada|UC Irvine|0.8224
+Nevada|UCF|0.3361
+Nevada|Utah St|0.4097
+Nevada|VA Commonwealth|0.2686
+Nevada|Vermont|0.2944
+Nevada|Villanova|0.1989
+Nevada|Virginia|0.107
+Nevada|Virginia Tech|0.2933
+Nevada|Washington|0.5923
+Nevada|Wisconsin|0.5776
+Nevada|Wofford|0.2522
+Nevada|Yale|0.6213
+New Mexico St|North Carolina|0.1849
+New Mexico St|Northeastern|0.6215
+New Mexico St|Ohio St|0.5939
+New Mexico St|Oklahoma|0.4088
+New Mexico St|Old Dominion|0.5985
+New Mexico St|Oregon|0.8818
+New Mexico St|Prairie View|0.9313
+New Mexico St|Purdue|0.2264
+New Mexico St|Seton Hall|0.772
+New Mexico St|St John's|0.8854
+New Mexico St|St Louis|0.9656
+New Mexico St|St Mary's CA|0.2595
+New Mexico St|Syracuse|0.8369
+New Mexico St|Temple|0.9084
+New Mexico St|Tennessee|0.2106
+New Mexico St|Texas Tech|0.2843
+New Mexico St|UC Irvine|0.9551
+New Mexico St|UCF|0.6208
+New Mexico St|Utah St|0.7308
+New Mexico St|VA Commonwealth|0.4441
+New Mexico St|Vermont|0.6088
+New Mexico St|Villanova|0.2673
+New Mexico St|Virginia|0.0247
+New Mexico St|Virginia Tech|0.3596
+New Mexico St|Washington|0.8711
+New Mexico St|Wisconsin|0.7794
+New Mexico St|Wofford|0.4264
+New Mexico St|Yale|0.8922
+North Carolina|Northeastern|0.8006
+North Carolina|Ohio St|0.8024
+North Carolina|Oklahoma|0.675
+North Carolina|Old Dominion|0.781
+North Carolina|Oregon|0.9509
+North Carolina|Prairie View|0.9608
+North Carolina|Purdue|0.3837
+North Carolina|Seton Hall|0.8984
+North Carolina|St John's|0.9453
+North Carolina|St Louis|0.9818
+North Carolina|St Mary's CA|0.4794
+North Carolina|Syracuse|0.935
+North Carolina|Temple|0.9588
+North Carolina|Tennessee|0.2974
+North Carolina|Texas Tech|0.7111
+North Carolina|UC Irvine|0.9788
+North Carolina|UCF|0.8395
+North Carolina|Utah St|0.8762
+North Carolina|VA Commonwealth|0.727
+North Carolina|Vermont|0.803
+North Carolina|Villanova|0.3823
+North Carolina|Virginia|0.2858
+North Carolina|Virginia Tech|0.7493
+North Carolina|Washington|0.9514
+North Carolina|Wisconsin|0.9526
+North Carolina|Wofford|0.7757
+North Carolina|Yale|0.9454
+Northeastern|Ohio St|0.41
+Northeastern|Oklahoma|0.3148
+Northeastern|Old Dominion|0.4046
+Northeastern|Oregon|0.7549
+Northeastern|Prairie View|0.8567
+Northeastern|Purdue|0.2036
+Northeastern|Seton Hall|0.5828
+Northeastern|St John's|0.7605
+Northeastern|St Louis|0.9239
+Northeastern|St Mary's CA|0.2241
+Northeastern|Syracuse|0.6686
+Northeastern|Temple|0.7995
+Northeastern|Tennessee|0.175
+Northeastern|Texas Tech|0.2364
+Northeastern|UC Irvine|0.8979
+Northeastern|UCF|0.4345
+Northeastern|Utah St|0.5305
+Northeastern|VA Commonwealth|0.347
+Northeastern|Vermont|0.4176
+Northeastern|Villanova|0.2585
+Northeastern|Virginia|0.004
+Northeastern|Virginia Tech|0.3109
+Northeastern|Washington|0.7166
+Northeastern|Wisconsin|0.562
+Northeastern|Wofford|0.3126
+Northeastern|Yale|0.7789
+Ohio St|Oklahoma|0.386
+Ohio St|Old Dominion|0.5635
+Ohio St|Oregon|0.8731
+Ohio St|Prairie View|0.9284
+Ohio St|Purdue|0.2165
+Ohio St|Seton Hall|0.7558
+Ohio St|St John's|0.8767
+Ohio St|St Louis|0.9645
+Ohio St|St Mary's CA|0.2435
+Ohio St|Syracuse|0.8367
+Ohio St|Temple|0.9044
+Ohio St|Tennessee|0.221
+Ohio St|Texas Tech|0.2948
+Ohio St|UC Irvine|0.9544
+Ohio St|UCF|0.6137
+Ohio St|Utah St|0.7179
+Ohio St|VA Commonwealth|0.4412
+Ohio St|Vermont|0.5822
+Ohio St|Villanova|0.2497
+Ohio St|Virginia|0.0469
+Ohio St|Virginia Tech|0.3656
+Ohio St|Washington|0.8675
+Ohio St|Wisconsin|0.8101
+Ohio St|Wofford|0.4349
+Ohio St|Yale|0.8874
+Oklahoma|Old Dominion|0.7145
+Oklahoma|Oregon|0.9278
+Oklahoma|Prairie View|0.9512
+Oklahoma|Purdue|0.271
+Oklahoma|Seton Hall|0.8543
+Oklahoma|St John's|0.925
+Oklahoma|St Louis|0.9764
+Oklahoma|St Mary's CA|0.3703
+Oklahoma|Syracuse|0.9017
+Oklahoma|Temple|0.9419
+Oklahoma|Tennessee|0.2598
+Oklahoma|Texas Tech|0.3934
+Oklahoma|UC Irvine|0.9709
+Oklahoma|UCF|0.7602
+Oklahoma|Utah St|0.8248
+Oklahoma|VA Commonwealth|0.6051
+Oklahoma|Vermont|0.7324
+Oklahoma|Villanova|0.3152
+Oklahoma|Virginia|0.0906
+Oklahoma|Virginia Tech|0.5091
+Oklahoma|Washington|0.925
+Oklahoma|Wisconsin|0.9015
+Oklahoma|Wofford|0.6299
+Oklahoma|Yale|0.9276
+Old Dominion|Oregon|0.6743
+Old Dominion|Prairie View|0.8148
+Old Dominion|Purdue|0.2082
+Old Dominion|Seton Hall|0.5005
+Old Dominion|St John's|0.6872
+Old Dominion|St Louis|0.8959
+Old Dominion|St Mary's CA|0.2452
+Old Dominion|Syracuse|0.5618
+Old Dominion|Temple|0.727
+Old Dominion|Tennessee|0.1685
+Old Dominion|Texas Tech|0.2214
+Old Dominion|UC Irvine|0.8567
+Old Dominion|UCF|0.3898
+Old Dominion|Utah St|0.4703
+Old Dominion|VA Commonwealth|0.3469
+Old Dominion|Vermont|0.3917
+Old Dominion|Villanova|0.2782
+Old Dominion|Virginia|0.0016
+Old Dominion|Virginia Tech|0.3043
+Old Dominion|Washington|0.6279
+Old Dominion|Wisconsin|0.4388
+Old Dominion|Wofford|0.3095
+Old Dominion|Yale|0.7123
+Oregon|Prairie View|0.7395
+Oregon|Purdue|0.1873
+Oregon|Seton Hall|0.4028
+Oregon|St John's|0.5915
+Oregon|St Louis|0.855
+Oregon|St Mary's CA|0.1797
+Oregon|Syracuse|0.5138
+Oregon|Temple|0.6565
+Oregon|Tennessee|0.1856
+Oregon|Texas Tech|0.2465
+Oregon|UC Irvine|0.813
+Oregon|UCF|0.3267
+Oregon|Utah St|0.3892
+Oregon|VA Commonwealth|0.2926
+Oregon|Vermont|0.2935
+Oregon|Villanova|0.2194
+Oregon|Virginia|0.0152
+Oregon|Virginia Tech|0.2976
+Oregon|Washington|0.5496
+Oregon|Wisconsin|0.4658
+Oregon|Wofford|0.2633
+Oregon|Yale|0.6203
+Prairie View|Purdue|0.0504
+Prairie View|Seton Hall|0.1404
+Prairie View|St John's|0.182
+Prairie View|St Louis|0.5377
+Prairie View|St Mary's CA|0.0637
+Prairie View|Syracuse|0.1765
+Prairie View|Temple|0.2106
+Prairie View|Tennessee|0.0394
+Prairie View|Texas Tech|0.0464
+Prairie View|UC Irvine|0.3361
+Prairie View|UCF|0.128
+Prairie View|Utah St|0.1424
+Prairie View|VA Commonwealth|0.1146
+Prairie View|Vermont|0.1098
+Prairie View|Villanova|0.0815
 Prairie View|Virginia|0.0
-Prairie View|Virginia Tech|0.0727
-Prairie View|Washington|0.1227
-Prairie View|Wisconsin|0.1152
-Prairie View|Wofford|0.0783
-Prairie View|Yale|0.1675
-Purdue|Seton Hall|0.9101
-Purdue|St John's|0.9332
-Purdue|St Louis|0.9225
-Purdue|St Mary's CA|0.7719
-Purdue|Syracuse|0.8347
-Purdue|Temple|0.9218
-Purdue|Tennessee|0.6807
-Purdue|Texas Tech|0.6387
-Purdue|UC Irvine|0.9013
-Purdue|UCF|0.8765
-Purdue|Utah St|0.906
-Purdue|VA Commonwealth|0.7231
-Purdue|Vermont|0.9021
-Purdue|Villanova|0.6613
-Purdue|Virginia|0.3879
-Purdue|Virginia Tech|0.645
-Purdue|Washington|0.8194
-Purdue|Wisconsin|0.8465
-Purdue|Wofford|0.6654
-Purdue|Yale|0.8625
-Seton Hall|St John's|0.5481
-Seton Hall|St Louis|0.5792
-Seton Hall|St Mary's CA|0.1887
-Seton Hall|Syracuse|0.2911
-Seton Hall|Temple|0.4917
-Seton Hall|Tennessee|0.1739
-Seton Hall|Texas Tech|0.1565
-Seton Hall|UC Irvine|0.4658
-Seton Hall|UCF|0.3268
-Seton Hall|Utah St|0.4453
-Seton Hall|VA Commonwealth|0.1843
-Seton Hall|Vermont|0.4636
-Seton Hall|Villanova|0.1972
-Seton Hall|Virginia|0.0185
-Seton Hall|Virginia Tech|0.1771
-Seton Hall|Washington|0.2255
-Seton Hall|Wisconsin|0.2675
-Seton Hall|Wofford|0.1604
-Seton Hall|Yale|0.3333
-St John's|St Louis|0.5018
-St John's|St Mary's CA|0.1893
-St John's|Syracuse|0.2818
-St John's|Temple|0.4087
-St John's|Tennessee|0.1715
-St John's|Texas Tech|0.1552
-St John's|UC Irvine|0.3946
-St John's|UCF|0.2877
-St John's|Utah St|0.3716
-St John's|VA Commonwealth|0.1907
-St John's|Vermont|0.3923
-St John's|Villanova|0.2044
-St John's|Virginia|0.0112
-St John's|Virginia Tech|0.1817
-St John's|Washington|0.2173
-St John's|Wisconsin|0.2561
-St John's|Wofford|0.1665
-St John's|Yale|0.2936
-St Louis|St Mary's CA|0.2086
-St Louis|Syracuse|0.3
-St Louis|Temple|0.4153
-St Louis|Tennessee|0.1333
-St Louis|Texas Tech|0.1292
-St Louis|UC Irvine|0.4124
-St Louis|UCF|0.305
-St Louis|Utah St|0.383
-St Louis|VA Commonwealth|0.2065
-St Louis|Vermont|0.4106
-St Louis|Villanova|0.2187
-St Louis|Virginia|0.0006
-St Louis|Virginia Tech|0.1737
-St Louis|Washington|0.2363
-St Louis|Wisconsin|0.249
-St Louis|Wofford|0.1697
-St Louis|Yale|0.3192
-St Mary's CA|Syracuse|0.5107
-St Mary's CA|Temple|0.722
-St Mary's CA|Tennessee|0.2914
-St Mary's CA|Texas Tech|0.291
-St Mary's CA|UC Irvine|0.6809
-St Mary's CA|UCF|0.5787
-St Mary's CA|Utah St|0.6769
-St Mary's CA|VA Commonwealth|0.3602
-St Mary's CA|Vermont|0.6827
-St Mary's CA|Villanova|0.3606
-St Mary's CA|Virginia|0.0315
-St Mary's CA|Virginia Tech|0.3277
-St Mary's CA|Washington|0.4527
-St Mary's CA|Wisconsin|0.4721
-St Mary's CA|Wofford|0.3114
-St Mary's CA|Yale|0.589
-Syracuse|Temple|0.7851
-Syracuse|Tennessee|0.3139
-Syracuse|Texas Tech|0.2905
-Syracuse|UC Irvine|0.7502
-Syracuse|UCF|0.6556
-Syracuse|Utah St|0.7492
-Syracuse|VA Commonwealth|0.3779
-Syracuse|Vermont|0.7505
-Syracuse|Villanova|0.3604
-Syracuse|Virginia|0.0641
-Syracuse|Virginia Tech|0.3202
-Syracuse|Washington|0.5182
-Syracuse|Wisconsin|0.5524
-Syracuse|Wofford|0.3165
-Syracuse|Yale|0.6553
-Temple|Tennessee|0.1985
-Temple|Texas Tech|0.181
-Temple|UC Irvine|0.4609
-Temple|UCF|0.3353
-Temple|Utah St|0.4392
-Temple|VA Commonwealth|0.2159
-Temple|Vermont|0.459
-Temple|Villanova|0.2305
-Temple|Virginia|0.0207
-Temple|Virginia Tech|0.2079
-Temple|Washington|0.2476
-Temple|Wisconsin|0.2933
-Temple|Wofford|0.1917
-Temple|Yale|0.3414
-Tennessee|Texas Tech|0.5267
-Tennessee|UC Irvine|0.8503
-Tennessee|UCF|0.8128
-Tennessee|Utah St|0.8574
-Tennessee|VA Commonwealth|0.6019
-Tennessee|Vermont|0.8515
-Tennessee|Villanova|0.542
-Tennessee|Virginia|0.3544
-Tennessee|Virginia Tech|0.5297
-Tennessee|Washington|0.7301
-Tennessee|Wisconsin|0.7821
-Tennessee|Wofford|0.5278
-Tennessee|Yale|0.7923
-Texas Tech|UC Irvine|0.8444
-Texas Tech|UCF|0.8056
-Texas Tech|Utah St|0.8515
-Texas Tech|VA Commonwealth|0.5898
-Texas Tech|Vermont|0.8457
-Texas Tech|Villanova|0.5349
-Texas Tech|Virginia|0.3454
-Texas Tech|Virginia Tech|0.5224
-Texas Tech|Washington|0.7199
-Texas Tech|Wisconsin|0.7775
-Texas Tech|Wofford|0.5184
-Texas Tech|Yale|0.7848
-UC Irvine|UCF|0.3304
-UC Irvine|Utah St|0.4249
-UC Irvine|VA Commonwealth|0.2194
-UC Irvine|Vermont|0.448
-UC Irvine|Villanova|0.2336
-UC Irvine|Virginia|0.0097
-UC Irvine|Virginia Tech|0.2017
-UC Irvine|Washington|0.2503
-UC Irvine|Wisconsin|0.2858
-UC Irvine|Wofford|0.1928
-UC Irvine|Yale|0.3407
-UCF|Utah St|0.6516
-UCF|VA Commonwealth|0.2903
-UCF|Vermont|0.6551
-UCF|Villanova|0.2957
-UCF|Virginia|0.0678
-UCF|Virginia Tech|0.273
-UCF|Washington|0.3846
-UCF|Wisconsin|0.4409
-UCF|Wofford|0.2508
-UCF|Yale|0.5295
-Utah St|VA Commonwealth|0.2382
-Utah St|Vermont|0.5385
-Utah St|Villanova|0.2546
-Utah St|Virginia|0.0436
-Utah St|Virginia Tech|0.2352
-Utah St|Washington|0.285
-Utah St|Wisconsin|0.3376
-Utah St|Wofford|0.2124
-Utah St|Yale|0.4087
-VA Commonwealth|Vermont|0.81
-VA Commonwealth|Villanova|0.4464
-VA Commonwealth|Virginia|0.108
-VA Commonwealth|Virginia Tech|0.3947
-VA Commonwealth|Washington|0.6414
-VA Commonwealth|Wisconsin|0.6583
-VA Commonwealth|Wofford|0.4129
-VA Commonwealth|Yale|0.7417
-Vermont|Villanova|0.2317
-Vermont|Virginia|0.0072
-Vermont|Virginia Tech|0.1985
-Vermont|Washington|0.253
-Vermont|Wisconsin|0.2887
-Vermont|Wofford|0.1881
-Vermont|Yale|0.3565
-Villanova|Virginia|0.1685
-Villanova|Virginia Tech|0.4833
-Villanova|Washington|0.7364
-Villanova|Wisconsin|0.7451
-Villanova|Wofford|0.5155
-Villanova|Yale|0.8095
-Virginia|Virginia Tech|0.6654
-Virginia|Washington|0.811
-Virginia|Wisconsin|0.8541
-Virginia|Wofford|0.6676
-Virginia|Yale|0.8495
-Virginia Tech|Washington|0.7366
-Virginia Tech|Wisconsin|0.7778
-Virginia Tech|Wofford|0.5394
-Virginia Tech|Yale|0.8015
-Washington|Wisconsin|0.457
-Washington|Wofford|0.2893
-Washington|Yale|0.5572
-Wisconsin|Wofford|0.3094
-Wisconsin|Yale|0.6243
-Wofford|Yale|0.7575
+Prairie View|Virginia Tech|0.0854
+Prairie View|Washington|0.153
+Prairie View|Wisconsin|0.1299
+Prairie View|Wofford|0.0899
+Prairie View|Yale|0.2113
+Purdue|Seton Hall|0.9311
+Purdue|St John's|0.9634
+Purdue|St Louis|0.9881
+Purdue|St Mary's CA|0.6297
+Purdue|Syracuse|0.9553
+Purdue|Temple|0.9724
+Purdue|Tennessee|0.3732
+Purdue|Texas Tech|0.7561
+Purdue|UC Irvine|0.986
+Purdue|UCF|0.8885
+Purdue|Utah St|0.9151
+Purdue|VA Commonwealth|0.8042
+Purdue|Vermont|0.8674
+Purdue|Villanova|0.4846
+Purdue|Virginia|0.2977
+Purdue|Virginia Tech|0.7949
+Purdue|Washington|0.9669
+Purdue|Wisconsin|0.963
+Purdue|Wofford|0.8368
+Purdue|Yale|0.9635
+Seton Hall|St John's|0.6688
+Seton Hall|St Louis|0.9045
+Seton Hall|St Mary's CA|0.1535
+Seton Hall|Syracuse|0.6009
+Seton Hall|Temple|0.7338
+Seton Hall|Tennessee|0.1609
+Seton Hall|Texas Tech|0.2154
+Seton Hall|UC Irvine|0.8687
+Seton Hall|UCF|0.3271
+Seton Hall|Utah St|0.4211
+Seton Hall|VA Commonwealth|0.2585
+Seton Hall|Vermont|0.2979
+Seton Hall|Villanova|0.1864
+Seton Hall|Virginia|0.0222
+Seton Hall|Virginia Tech|0.2639
+Seton Hall|Washington|0.6421
+Seton Hall|Wisconsin|0.5507
+Seton Hall|Wofford|0.2417
+Seton Hall|Yale|0.7015
+St John's|St Louis|0.8681
+St John's|St Mary's CA|0.1454
+St John's|Syracuse|0.4829
+St John's|Temple|0.6404
+St John's|Tennessee|0.15
+St John's|Texas Tech|0.2005
+St John's|UC Irvine|0.814
+St John's|UCF|0.2753
+St John's|Utah St|0.3439
+St John's|VA Commonwealth|0.2429
+St John's|Vermont|0.2497
+St John's|Villanova|0.1776
+St John's|Virginia|0.0128
+St John's|Virginia Tech|0.2487
+St John's|Washington|0.5222
+St John's|Wisconsin|0.4154
+St John's|Wofford|0.2199
+St John's|Yale|0.6106
+St Louis|St Mary's CA|0.0663
+St Louis|Syracuse|0.18
+St Louis|Temple|0.1968
+St Louis|Tennessee|0.0649
+St Louis|Texas Tech|0.079
+St Louis|UC Irvine|0.304
+St Louis|UCF|0.1301
+St Louis|Utah St|0.1468
+St Louis|VA Commonwealth|0.118
+St Louis|Vermont|0.1123
+St Louis|Villanova|0.0833
+St Louis|Virginia|0.0004
+St Louis|Virginia Tech|0.1134
+St Louis|Washington|0.1502
+St Louis|Wisconsin|0.1594
+St Louis|Wofford|0.0996
+St Louis|Yale|0.2003
+St Mary's CA|Syracuse|0.8114
+St Mary's CA|Temple|0.8855
+St Mary's CA|Tennessee|0.2705
+St Mary's CA|Texas Tech|0.3572
+St Mary's CA|UC Irvine|0.9407
+St Mary's CA|UCF|0.6169
+St Mary's CA|Utah St|0.7003
+St Mary's CA|VA Commonwealth|0.4737
+St Mary's CA|Vermont|0.6065
+St Mary's CA|Villanova|0.355
+St Mary's CA|Virginia|0.0363
+St Mary's CA|Virginia Tech|0.4199
+St Mary's CA|Washington|0.8547
+St Mary's CA|Wisconsin|0.7917
+St Mary's CA|Wofford|0.4908
+St Mary's CA|Yale|0.863
+Syracuse|Temple|0.852
+Syracuse|Tennessee|0.1826
+Syracuse|Texas Tech|0.2579
+Syracuse|UC Irvine|0.9284
+Syracuse|UCF|0.4802
+Syracuse|Utah St|0.5911
+Syracuse|VA Commonwealth|0.3326
+Syracuse|Vermont|0.4275
+Syracuse|Villanova|0.2021
+Syracuse|Virginia|0.0486
+Syracuse|Virginia Tech|0.3212
+Syracuse|Washington|0.7893
+Syracuse|Wisconsin|0.758
+Syracuse|Wofford|0.339
+Syracuse|Yale|0.8213
+Temple|Tennessee|0.1362
+Temple|Texas Tech|0.1929
+Temple|UC Irvine|0.7407
+Temple|UCF|0.2545
+Temple|Utah St|0.2986
+Temple|VA Commonwealth|0.2323
+Temple|Vermont|0.226
+Temple|Villanova|0.1692
+Temple|Virginia|0.0158
+Temple|Virginia Tech|0.2391
+Temple|Washington|0.4268
+Temple|Wisconsin|0.3771
+Temple|Wofford|0.2083
+Temple|Yale|0.506
+Tennessee|Texas Tech|0.8825
+Tennessee|UC Irvine|0.9933
+Tennessee|UCF|0.9475
+Tennessee|Utah St|0.9594
+Tennessee|VA Commonwealth|0.9033
+Tennessee|Vermont|0.9375
+Tennessee|Villanova|0.6761
+Tennessee|Virginia|0.4051
+Tennessee|Virginia Tech|0.8993
+Tennessee|Washington|0.9849
+Tennessee|Wisconsin|0.9832
+Tennessee|Wofford|0.9221
+Tennessee|Yale|0.9825
+Texas Tech|UC Irvine|0.9599
+Texas Tech|UCF|0.706
+Texas Tech|Utah St|0.7713
+Texas Tech|VA Commonwealth|0.5515
+Texas Tech|Vermont|0.6455
+Texas Tech|Villanova|0.2835
+Texas Tech|Virginia|0.2403
+Texas Tech|Virginia Tech|0.5659
+Texas Tech|Washington|0.9021
+Texas Tech|Wisconsin|0.9073
+Texas Tech|Wofford|0.5982
+Texas Tech|Yale|0.8974
+UC Irvine|UCF|0.1833
+UC Irvine|Utah St|0.2075
+UC Irvine|VA Commonwealth|0.1681
+UC Irvine|Vermont|0.1611
+UC Irvine|Villanova|0.12
+UC Irvine|Virginia|0.0046
+UC Irvine|Virginia Tech|0.1693
+UC Irvine|Washington|0.2199
+UC Irvine|Wisconsin|0.2347
+UC Irvine|Wofford|0.1483
+UC Irvine|Yale|0.2838
+UCF|Utah St|0.5638
+UCF|VA Commonwealth|0.3675
+UCF|Vermont|0.4363
+UCF|Villanova|0.2763
+UCF|Virginia|0.071
+UCF|Virginia Tech|0.3684
+UCF|Washington|0.7685
+UCF|Wisconsin|0.7182
+UCF|Wofford|0.3671
+UCF|Yale|0.7787
+Utah St|VA Commonwealth|0.3619
+Utah St|Vermont|0.4446
+Utah St|Villanova|0.265
+Utah St|Virginia|0.0483
+Utah St|Virginia Tech|0.3502
+Utah St|Washington|0.7737
+Utah St|Wisconsin|0.6895
+Utah St|Wofford|0.3463
+Utah St|Yale|0.7972
+VA Commonwealth|Vermont|0.502
+VA Commonwealth|Villanova|0.2473
+VA Commonwealth|Virginia|0.0749
+VA Commonwealth|Virginia Tech|0.3806
+VA Commonwealth|Washington|0.8316
+VA Commonwealth|Wisconsin|0.8104
+VA Commonwealth|Wofford|0.4106
+VA Commonwealth|Yale|0.8452
+Vermont|Villanova|0.2531
+Vermont|Virginia|0.008
+Vermont|Virginia Tech|0.3031
+Vermont|Washington|0.6577
+Vermont|Wisconsin|0.5361
+Vermont|Wofford|0.2994
+Vermont|Yale|0.7087
+Villanova|Virginia|0.1429
+Villanova|Virginia Tech|0.6624
+Villanova|Washington|0.9554
+Villanova|Wisconsin|0.939
+Villanova|Wofford|0.7555
+Villanova|Yale|0.9568
+Virginia|Virginia Tech|0.8423
+Virginia|Washington|0.9706
+Virginia|Wisconsin|0.9709
+Virginia|Wofford|0.8718
+Virginia|Yale|0.9653
+Virginia Tech|Washington|0.8612
+Virginia Tech|Wisconsin|0.8603
+Virginia Tech|Wofford|0.5011
+Virginia Tech|Yale|0.8608
+Washington|Wisconsin|0.3996
+Washington|Wofford|0.243
+Washington|Yale|0.4639
+Wisconsin|Wofford|0.2324
+Wisconsin|Yale|0.6083
+Wofford|Yale|0.8035
