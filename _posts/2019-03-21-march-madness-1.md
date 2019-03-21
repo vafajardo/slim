@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "x2019_March_madness_Kaggle_probability_predictions"
-date: 2019-04-21
+date: 2019-03-21
 comments: true
 categories: ML
 ---
