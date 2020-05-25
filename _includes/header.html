@@ -1,0 +1,13 @@
+<div class="wrapper">
+  <div class="trigger site-navigation">
+    <center>
+    {% for sitePage in site.pages %}
+    {% if sitePage.title %}
+
+    <a class="main" href="{{sitePage.url | prepend: site.baseurl }}"><small>
+      {{sitePage.title}}</small></a><span class="exclamationMark"></span>
+    {% endif %}
+    {% endfor %}
+    </center>
+  </div>
+</div>
