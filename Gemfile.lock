@@ -197,6 +197,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    rexml (3.2.4)
     rouge (2.2.1)
     ruby2_keywords (0.0.4)
     safe_yaml (1.0.5)
@@ -224,6 +225,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 165)
   kramdown (~> 1.14)
+  rexml (~> 3.2)
   webrick (~> 1.7)
 
 BUNDLED WITH
